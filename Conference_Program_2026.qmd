@@ -1,0 +1,377 @@
+---
+title: "CGA 20th Anniversary Annual Conference"
+subtitle: "Preliminary Program · October 2–3, 2026"
+format:
+  html:
+    theme: styles.scss
+    toc: true
+    toc-title: "Jump to"
+    toc-depth: 2
+    embed-resources: true
+editor: source
+---
+
+![](images/cga-shield.png){.shield fig-alt="CGA shield"}
+
+Version: August 28, 2026
+
+# Day 1 · Friday, October 2
+
+## [1:00–1:15pm]{.time} · Conference opening {.fixed}
+
+## [1:15–2:00pm]{.time} · Keynote 1 · Coming soon {.fixed}
+
+## [2:00–3:00pm]{.time} · Plenary Panel 1 · Coming soon {.fixed}
+
+## [3:00–3:30pm]{.time} · Coffee break {.fixed}
+
+## [3:30–4:30pm]{.time} · Concurrent Sessions 1 {.fixed}
+
+### [1A]{.session-id} Historical GIS and History (201 - Riverbend)
+
+[Chair: TBD]{.session-lead}
+
+- **Historical Geodata Digitization with Vision-Language Models: Reconstructing Neighborhood Property Values and the Geography of Racially Restrictive Covenants in Twentieth-Century Milwaukee**  
+  Elizaveta Lepikhova · UW-Milwaukee
+- **Automated Georeferencing of Historical Maps Using Vision–Language Models** 
+  Chengbin Deng · University of Oklahoma
+- **From Historical GIS to Digital Twins: Modeling Urban Resilience Through Explainable AI in Spain**  
+  Barbara Polo-Martin · Universidad Autónoma de Madrid
+- **China’s History Through a Geographic Lens**  
+  Peter Bol · Harvard University
+- **Before the Map: Early Modern European Itineraries and Network Graphs as an Alternative to HistoricalGIS**  
+  Molly Taylor-Poleskey · Harvard University Map Library
+
+### [1B]{.session-id} Development, Poverty, and Environment (205 - Lane's Edge)
+
+[Chair: TBD]{.session-lead}
+
+- **Multimodal poverty mapping and geographic transfer allocation**  
+  Woojin Jung · Rutgers University
+- **Generative AI, Skill Decombination, and the Geography of Work Restructuring**  
+  Anthony Howell · Arizona State University
+- **Household energy choice in rural Ethiopia: An agent-based approach**  
+  Dylan Munson · Duke University
+- **Spatial Patterns of Health and Displacement in Uranium Mining Regions: A Comparative GIS-Based Study of Jadugoda (India), Navajo Nation (USA), and Ranger Mine, Kakadu (Australia)**  
+  Abhijeet Kumar · Ranchi University India
+- **Community Wealth Protects Cognitive Health for Older Adults**  
+  Dylan Connor · Arizona State University
+
+### [1C]{.session-id} Lightning Talks I (209 - West Hollow) {.lightning}
+
+[Chair: TBD]{.session-lead}
+
+- **Everywhere she maps, she changes the discourse: A topic modeling of the gender discourse in YouthMappers blogs**  
+  Maliha Binte mohiuddin · West Virginia University
+- **Built by Us, Displaced by Us: Intra-ethnic Gentrification in New York City's Diaspora Communities**  
+  Austin Cheng
+- **Labor Mobility in Cannabis Production and Territorial Contradictions in Regulated Markets**  
+  Rogério de Mambro · PPGH - USP (Programa de Pós Graduação em Geografia Humana - Universidade de São Paulo.
+- **Beyond Proximity: Measuring Quality Childcare Access as Spatial Equity Problem in New York City**  
+  Chaitanya Kukreja · New York University - Center of Urban Science + Progress
+- **Mapping Colonial Sociability: Club Formation, Spatial Power, and Urbanization in Colonial Kerala**  
+  Rajeesha M · Sree Sankaracharya University of Sanskrit, Kalady, Kerala
+- **Past Decisions, Present Barriers, and Future Access: A GIS-Based Analysis of Spatial Disparities in Indigenous Grain Market Access in Manitoba, Canada**  
+  Supul Muhandiram · University of Manitoba
+- **Intersecting Mobility and Space-Time -  Addressing the Spatiotemporal Complexity of Contemporary Labor Migration Within India.**  
+  Ambuja Raj · Centre for Studies in Social Sciences, Calcutta (CSSSC), India
+- **Spatial Patterns of Luxury Fashion in Milan: Towards a Typology of Fashion Districts**  
+  Mateusz Rusin · Jagiellonian University
+
+### [1D]{.session-id} Who Writes the Map? AI, Authorship, and Publishing (221 - Branch View) {.panel}
+
+[Panel · moderated by Kexin Song]{.session-lead}
+
+**Panelists**
+
+- Luke Sanford · Yale University
+- Rachel Franklin · Harvard Center for Geographic Analysis
+- Zhe (Sarina) Zhang · Texas A&M University
+
+## [4:30–4:45pm]{.time} · Break {.fixed}
+
+
+## [4:45–5:45pm]{.time} · Concurrent Sessions 2 {.fixed}
+
+### [2A]{.session-id} Health and Access (201 - Riverbend)
+
+[Chair: TBD]{.session-lead}
+
+- **Forecast, Prepare, Respond: Geospatial and Machine-Learning Analytics for Public Health and Emergency Medical Services from Global to Local Scale**  
+  Ghermay Araya · New Light Technologies, Inc.
+- **Mapping Inequity: How Race, Income, and Geography Shape Autism Diagnosis in California**  
+  Elizabeth Cotillo · UCLA
+- **LLM-based Generation of Geospatial Synthetic Data for Analyzing Spatial Patterns of Health Outcomes and Disparities**  
+  Haley Mullen · Tufts University
+- **Human-Network Regions as Effective Geographic Units for Disease Mitigation**  
+  Clio Andris · Georgia Tech
+
+### [2B]{.session-id} GIS Enterprise, Education, and Governance (205 - Lane's Edge)
+
+[Chair: TBD]{.session-lead}
+
+- **AI Is Changing Geographic Problem Solving;  Instruction Must Change Too**  
+  Sarigai Sarigai · UC Santa Barbara
+- **A discussion on geospatial data practices**  
+  Belle Lipton · Harvard Map Collection
+- **Participatory GIS for Campus Sustainability:  Geospatial Data Collection, Digital Twin Development, and Sustainability Certification at Historically Black Colleges and Universities**  
+  Amy Quarkume · Howard University
+- **Evolution of GIS - Enterprise GIS, Systems Thinking and Governance**  
+  Geri Miller · Esri
+
+### [2C]{.session-id} Lightning Talks II (209 - West Hollow) {.lightning}
+
+[Chair: TBD]{.session-lead}
+
+- **The spatial clustering of utility-scale solar in Rhode Island**  
+  Christopher Battle · University of Rhode Island
+- **Visualising Flood Risk: A GIS–Augmented Reality Pipeline for Hyperlocal Urban Flood Education along the River Lea**  
+  Janniah Evans · University College London
+- **Measuring Wildlife Diversity in Chitwan National Park, Nepal Using Thermal UAVs and GIS**  
+  Umme Kulsum · The University of Texas at Dallas
+- **The Geometry of Prosperity: A Spatio-Temporal Analysis of Urban Form and Economic Health in Indian Functional Urban Areas**  
+  ALOK KUMAR · Jawaharlal Nehru University
+- **Finding the Ground Before the Survey: A Comparative Workflow for Early-Stage Terrain and Site-Context Modeling**  
+  Xinyan (Teresa) Li · Harvard University
+- **Directional Transferability in Spatial AI: Measuring Cross-Region Generalization with EGMS Data**  
+  Thalosang Tshireletso · University of East London
+- **From Satellite Detection to Field Intervention: Operational Lessons for GeoAI**  
+  Shoibolina Kaushik · Texas A&M University
+
+### [2D]{.session-id} Data-Driven Design for Urban Landscapes: Practicing and Teaching Urban Forest Planning (221 - Branch View) {.panel}
+
+[Panel · moderated by Eric Kramer, Reed Hilderbrand Landscape Architecture and Harvard Graduate School of Design]{.session-lead}
+
+**Panelists**
+
+- Eric Kramer · Reed Hilderbrand Landscape Architecture and Harvard Graduate School of Design
+- Max Robert Louis Piana · Harvard Graduate School of Design
+- Slide Kelly · Harvard Graduate School of Design
+
+
+# Day 2 · Saturday, October 3
+
+## [9:00–10:00am]{.time} · Keynote 2 · Coming soon {.fixed}
+
+## [10:00–11:00am]{.time} · Plenary Panel 2 · Coming soon {.fixed}
+
+## [11:00–11:30am]{.time} · Coffee break {.fixed}
+
+
+## [11:30am–1:00pm]{.time} · Concurrent Sessions 3 {.fixed}
+
+### [3A]{.session-id} Agents, LLMs, and the Discipline (Oh my!) (201 - Riverbend)
+
+[Chair: TBD]{.session-lead}
+
+- **Spatial Agents: The Next Interface for Geographic Analysis**  
+  Samyuktha Madhusudhan Thumala · Databricks
+- **Evaluating Agentic AI for Geographic Analysis: A Multi-Agent Framework Tested Against Expert Reproductions**  
+  Peter Kedron · UCSB
+- **GeoAI Embracing Place?**  
+  Yue Lin · UIUC
+- **Responsible GeoAI: Thoughtfully Integrating Geography and AI in the Real World**  
+  Lei Zou · Texas A&M University
+- **Algorithmic Space: Reimagining Geographic Analysis Through AI Governance and Spatial Justice**  
+  Nadine Fares · RBC Royal Bank of Canada
+- **Slop-less Mapmaking in a Reimagined University Cartography Lab**  
+  Anthony Robinson · Penn State University
+
+### [3B]{.session-id} Coastal and Landscape Dynamics (205 - Lane's Edge)
+
+[Chair: TBD]{.session-lead}
+
+- **Sediment sources drive changes in the large-scale distribution, biomass, and species composition of salt marsh vegetation**  
+  Yvanna Serra · Boston University
+- **Detecting and Characterizing Coastal Wetland Surface Water Dynamics Using High-Resolution Remote Sensing and Geospatial Change Analysis**  
+  Aiyin Zhang · Clark University
+- **From Satellite Snapshots to Spatial Sediment Budgets: Geographic Analysis of Marsh Vulnerability**  
+  Jordi Palacios · Boston Univerity
+- **Urbanization and wildfire exposure in the wildland urban interface of the Himalayas**  
+  Shijuan Chen · UMass Boston
+- **Looking Below the Canopy: Grounding Geographic Analysis in Vietnam's Cinnamon Commodity Landscape**  
+  Melie Monnerat · McGill University
+- **Integration of Three Novel Methods to Characterize Land Cover Change Using a Time Series of Maps in a Coastal Wetland Ecosystem**  
+  Robert Gilmore Pontius Jr · Clark University
+- **From adaptation to entrapment: Evidence of aquaculture-induced salinity feedback in coastal India**  
+  Garima Jain · Stanford University
+
+### [3C]{.session-id} Political Economy and Statecraft (209 - West Hollow)
+
+[Chair: TBD]{.session-lead}
+
+- **Sanctions in Space: Mapping Regional Economic Exposure with NLP and Spatial Econometrics**  
+  Gianmario Strappati · Lecturer Instituto Superior de Musica J. Hernandez de Buenos Aires
+- **Geospatial Data and the Moral Foundations of State Surveillance**  
+  Apala Vatsa · Manav Rachna University, Faridabad, Haryana, India
+- **Politics of Form in the Transpacific: A Geographic Perspective**  
+  Xiao Di Tong · Michigan State University
+- **Local parsimonious approach to measuring gerrymandering effects considering both shape and representation**  
+  Joseph Holler · Middlebury College
+- **Crime, inequality, and urban space: using public safety data to reveal hidden geographies of urban vulnerability in Brazil**  
+  Rafael Mazoni · Fundação João Pinheiro (Brazil)
+- **Mapping the demographic pump: A composite eco-demographic load index and spatial typology of core–periphery dynamics in Central Asia**  
+  Assem Sarsembayeva · al-Farabi KazNU
+- **The Geography of Sustainable Packaging Waste in Europe**  
+  Urska Vrabic-Brodnjak · University of Ljubljana, Faculty of Natural Sciences and Engineering, Ljubljana, Slovenia
+
+### [3D]{.session-id} Spatial Data and Structures (221 - Branch View)
+
+[Chair: TBD]{.session-lead}
+
+- **Tracing Uncertainties and Errors Through the Production Pipeline of Platform POI Data**  
+  Jiahua Chen · University of California, Santa Barbara
+- **Place, Access, and Attitudes: Validating OpenStreetMap Measures of Infrastructural Deprivation in Political Science**  
+  Daria Dementeva · Luxembourg Institute of Socio-Economic Research (LISER)
+- **Building the National Zoning Atlas**  
+  Scott Markley · National Zoning Atlas
+- **Terrain, Signal, and Access: Spatial Analysis of Telecom Networks**  
+  Kyungmin Kim · Harvard University, GSD
+- **Spatial Representation and Ambiguity of Study-Site Metadata: Reconstructing Study Sites for a Congo Basin Forest-Change Meta-Analysis**  
+  Emily Zhou · University of California Santa Barbara
+- **Distance Decay as a Foundational Geographic Analysis Concept: From Spatial Interaction to Multiscale Spatial Smoothing and Beyond**  
+  Taylor Oshan · University of Maryland
+- **What is Special About Spatial?: Spatiality in the Age of Data Science**  
+  Jochen Albrecht · Hunter College / CUNY
+
+## [1:00–2:00pm]{.time} · Networking lunch {.fixed}
+
+
+## [2:00–3:15pm]{.time} · Concurrent Sessions 4 {.fixed}
+
+### [4A]{.session-id} Land Cover, Change, and Conflict (201 - Riverbend)
+
+[Chair: TBD]{.session-lead}
+
+- **A Pixel-Level Framework for Map Comparison Through Time with Application to Water Mapping in Plum Island Ecosystems, MA**  
+  Antonio Victor Galvao da Fonseca · Clark University
+- **Beyond Forest Loss: Integrating Trajectory Analysis and DynamicPATCH to Understand Land-Use Dynamics in Tropical Protected Areas**  
+  Pacifique Madibi · Clark University
+- **Exploring Hidden Landscapes - Seeing the Unseen with LiDAR in the Vegetated Terrain of New England and Palestine**  
+  Jeffrey Howry · Harvard Museum of the Ancient Near East
+- **Tracking War from Above: New Frontiers and Responsibilities in Satellite Damage Mapping**  
+  Jamon Van Den Hoek · Oregon State University
+- **GeoAI and Remote Sensing for Conflict, Displacement, and Environmental Change**  
+  Kexin Song · Yale University
+- **Cross-Regional Attention Networks in Climate Disasters: Mapping Asymmetric Spillovers and Blind Spots**  
+  Yilan Xu · University of Illinois
+
+### [4B]{.session-id} Mobility and Movement (205 - Lane's Edge)
+
+[Chair: TBD]{.session-lead}
+
+- **From Spatial Accessibility and Time Geography to Measuring Access and Exposure Through Mobile Location Data**  
+  Somayeh Dodge · University of California Santa Barbara
+- **Movement stops can reflect our behavioral patterns**  
+  Megan Hutchison · The University of Texas at Dallas
+- **Geographic Analysis of Human Mobility and Animal Movement and Their Interaction Effects: From Spatial Data Science to Generative AI Approaches**  
+  Song Gao · University of Wisconsin-Madison
+- **An LLM-Guided Framework for Analyzing Public Sentiment Toward Transportation Facilities Using Google Maps Reviews**  
+  Yingrui Zhao · University of Maryland, College Park
+- **Leveraging Digital Trace Data to Measure Flood-Induced Population Displacement**  
+  Martina Pardy · University of Liverpool
+- **Floods vs. Urban Mobility: The Role of Geospatial Intelligence in Transport Resilience**  
+  Hande Demirel · Istanbul Technical University
+
+### [4C]{.session-id} Systems and Infrastructure (209 - West Hollow)
+
+[Chair: TBD]{.session-lead}
+
+- **Discovering Governing Spatial Interaction Mechanisms in Dynamic Urban Systems**  
+  Di Zhu · University of Minnesota, Twin Cities
+- **Digital Twin and GIS-BIM Integration for Urban Regeneration in Rome**  
+  Emilio Misuriello · Municipalità di Roma Capitale, Esri Italia spa
+- **A Spatially Explicit Additive GeoAI Architecture for Metropolitan-Scale Spatial Risk Modeling**  
+  Asish Satpathy · Arizona State University
+- **The Future of Geospatial Analysis: Accelerated Geospatial Research with GPU Data Processing, Vector Search, and AI**  
+  Todd Mostak · NVIDIA
+- **Spatial Silicone: Establishing a Foundation for Geospatial Hardware**  
+  Eric Shook · University of Minnesota
+- **Reproducible Geospatial Knowledge Graphs with Apache Iceberg and RDF**  
+  Colton Loftus · Lincoln Institute of Land Policy, Center for Geospatial Solutions
+
+### [4D]{.session-id} From Participatory GIS to Decision-ready GeoAI: Building Trust in Geospatial AI (221 - Branch View) {.panel}
+
+[Panel · moderated by Shoibolina Kaushik]{.session-lead}
+
+**Panelists**
+
+- Zhe Zhang · Texas A&M University
+- Xiao Huang · Emory University
+- Xinyue Ye · University of Alabama
+- Peng Luo · University of Iowa
+
+## [3:15–3:30pm]{.time} · Break {.fixed}
+
+
+## [3:30–4:45pm]{.time} · Concurrent Sessions 5 {.fixed}
+
+### [5A]{.session-id} GeoAI and Spatial Analysis (201 - Riverbend)
+
+[Chair: TBD]{.session-lead}
+
+- **Quantum Spatial Regression (QSR): Learning Spatial Structure with Quantum Kernels**  
+  Xiao Huang · Emory
+- **Where to Enter: Bayesian Spatial Modeling of Market Entry Success**  
+  Jaiany Trindade · Harvard University / UFRGS
+- **Reimagining GWR Through GNNs and Beyond: Graph Conditional Regression for Interpretable Spatial and Graph-Local Effects**  
+  Lingbo Liu · CGA/needs to be updated
+- **Spatially Aware Adaptive Experimentation**  
+  Lixi Xu · UC Santa Barbara
+- **SECT: A Spatiotemporal Explicit Causal Transformer for Path-Faithful Spatiotemporal Attribution**  
+  Zhe Zhang · Texas
+- **Safety-Aware Contraction Hierarchies for School Bus Routing with Maneuver-Level Turn Penalties**  
+  Zifu Wang · Harvard University
+
+### [5B]{.session-id} Segregation and Structural Inequalities (205 - Lane's Edge)
+
+[Chair: TBD]{.session-lead}
+
+- **Persistent and Emerging Geographies of Structural Racism and Discrimination in the United States**  
+  Debs Ghosh · University of Connecticut
+- **Segregation you cannot see on a map: the social reach of the color line**  
+  Mehak Sachdeva · Florida State University
+- **Uneven Access: Mapping Contraceptive Care Across Texas**  
+  Mahboobe Safaei Mehr · the University of Texas at Austin
+- **Mapping Aspiration: Lifestyle Change and Amenity Geographies in Seoul, 1995–2022**  
+  Yona Chung · GSD
+- **Writing the Speculative City: Reading Amaravati's Land Pooling Schedules as Relational Statecraft**  
+  Anand Datla · Texas A&M University
+- **Advancing Geographic Analysis with Multimodal Large Language Models: Uncovering Perceptual Mechanisms of Urban Coastal Vitality**  
+  Peijin Sun · University of North Carolina at Chapel Hill
+
+
+
+### [5C]{.session-id} Foundation Models and Earth Embeddings (209 - West Hollow)
+
+[Chair: TBD]{.session-lead}
+
+- **Spatial Scale Effects in Foundation Model Earth Embeddings: A Case Study on Predicting the Exposure of Structures to Wildfire in Colorado, USA**  
+  Aleksander Berg · University of Colorado Boulder
+- **Spatial AI for Spatiotemporal Satellite Image Fusion**  
+  Fangzheng Lyu · Virginia Tech
+- **General Geospatial Inference with a Population Dynamics Foundation Model**  
+  Arbaaz Muslim · Google
+- **GeoFM2Flow: Generating Human Mobility Flows from Geospatial Foundation Model Embeddings**  
+  Zhongfu Ma · University of Minnesota Twin Cities
+- **Benchmark evaluation of large language models for human versus AI perception on urban environment through street view images**  
+  Sisi Wang · University of Southern California
+
+### [5D]{.session-id} The Future of University GIS Centers in the AI Era (221 - Branch View) {.panel}
+
+[Panel · moderated by Chengbin Deng, University of Oklahoma]{.session-lead}
+
+**Panelists**
+
+- Alex de Sherbinin · Columbia University
+- Alan Murray · UC Santa Barbara
+- Deepak Mishra · University of Georgia
+- Jennifer Swenson · William & Mary
+- Wenwen Li · Arizona State University
+
+## [4:30–4:45pm]{.time} · Break {.fixed}
+
+## [4:45–5:30pm]{.time} · Keynote 3 · Coming soon {.fixed}
+
+## [5:30–6:00pm]{.time} · Conference closing + prizes {.fixed}
+

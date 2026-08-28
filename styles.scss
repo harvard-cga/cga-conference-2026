@@ -1,0 +1,133 @@
+/*-- scss:defaults --*/
+// ---- Harvard / CGA palette ----
+$crimson:      #7E1522;
+$crimson-deep: #7E1522;
+$ink:          #1E1E1E;
+$parchment:    #F3F3F1;
+$mortar:       #8C8179;
+$slate:        #8996A0;
+$rule:         #E3E0DC;
+
+// ---- Bootstrap/Quarto theme variables ----
+$body-color:       $ink;
+$body-bg:          #FFFFFF;
+$link-color:       $crimson;
+$font-family-sans-serif: "Futura", Futura,
+  FreeSerif, serif;
+$headings-font-family:   "Futura", Futura,
+  FreeSerif, serif;
+$h1-font-size: 1.55rem;
+$h2-font-size: 1.2rem;
+$h3-font-size: 1.02rem;
+$toc-color: $crimson;
+
+/*-- scss:rules --*/
+body { line-height: 1.55; }
+
+// Center the logo, size it
+.shield { width: 92px; height: auto; display: block; margin: 1rem auto 0.6rem; }
+
+// Title block
+.quarto-title .title { color: $crimson; font-weight: 600; }
+.quarto-title .subtitle {
+  text-transform: uppercase; letter-spacing: 0.14em;
+  font-size: 0.82rem; color: $mortar; font-family: $font-family-sans-serif;
+}
+
+// Day headers (h1) — crimson rule beneath
+h1 {
+  color: $crimson-deep;
+  border-bottom: 2px solid $crimson;
+  padding-bottom: 0.3rem;
+  margin-top: 2.4rem;
+}
+
+// Slot headers (h2)
+h2 {
+  color: $ink;
+  border-bottom: 1px solid $rule;
+  padding-bottom: 0.25rem;
+  margin-top: 1.8rem;
+}
+
+// Session headers (h3) — room + theme
+h3 {
+  color: $crimson-deep;
+  margin-top: 1.3rem;
+  padding-left: 0.6rem;
+  border-left: 4px solid $crimson;
+}
+h3.lightning { border-left-color: $crimson-deep; color: $crimson-deep; }
+h3.panel     { border-left-color: $crimson-deep; }
+
+// Talk lists
+ul { list-style: none; padding-left: 0.6rem; }
+li { padding: 0.35rem 0; border-top: 1px dotted $rule; }
+li:first-child { border-top: none; }
+li strong { font-weight: 600; }
+
+// Fixed items (bold lines) get a soft parchment strip
+p > strong:first-child { color: $crimson-deep; }
+
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+
+// ---- Time-slot headings at ## level ----
+// Keynotes & plenary panels: marquee treatment (crimson band)
+h2.marquee {
+  background: $crimson;
+  color: #fff;
+  border: none;
+  padding: 0.5rem 0.8rem;
+  border-radius: 2px;
+  font-size: 1.2rem;
+  margin-top: 1.6rem;
+}
+// Breaks, opening, lunch, closing: quiet parchment strip
+h2.fixed {
+  background: $parchment;
+  color: $crimson-deep;
+  border: none;
+  border-left: 3px solid $mortar;
+  padding: 0.4rem 0.8rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin-top: 1.2rem;
+}
+
+// ---- Time anchor in time-slot headings ----
+h2 .time {
+  color: $crimson;
+  font-family: $font-family-sans-serif;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;   // times align down the left edge
+  margin-right: 0.15rem;
+}
+// On the crimson marquee band, white text — invert the time so it stays legible
+h2.marquee .time { color: #fff; }
+// On parchment fixed strips, crimson time reads fine (default above)
+
+// ---- Session lead line (Chair + panel Moderator share identical styling) ----
+.session-lead {
+  display: block;
+  font-style: italic;
+  color: $mortar;
+  font-size: 0.9rem;
+  margin: 0.1rem 0 0.5rem;
+}
+h3 + p em:only-child { color: $mortar; font-size: 0.9rem; }
+
+// ---- Session ID badge (e.g. 1A, 3C) on session headers ----
+.session-id {
+  display: inline-block;
+  background: $crimson;
+  color: #fff;
+  font-family: $font-family-sans-serif;
+  font-weight: 700;
+  font-size: 0.78rem;
+  padding: 0.05rem 0.4rem;
+  border-radius: 2px;
+  margin-right: 0.5rem;
+  vertical-align: middle;
+}
+h3.lightning .session-id { background: $crimson-deep; }
+h3.panel .session-id { background: $crimson-deep; }
