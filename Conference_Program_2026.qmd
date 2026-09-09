@@ -15,7 +15,7 @@ editor: source
 
 ![](images/cga-shield.png){.shield fig-alt="CGA shield"}
 
-Version: September 01, 2026
+Version: September 09, 2026
 
 # Day 1 · Friday, October 2
 
@@ -25,9 +25,17 @@ Version: September 01, 2026
 
 ## [1:00–1:15pm]{.time} · Conference opening {.fixed}
 
-## [1:15–2:00pm]{.time} · Keynote 1 · Coming soon {.fixed}
+## [1:15–2:00pm]{.time} · Keynote · Empowering Explorers{.marquee}
 
-## [2:00–3:00pm]{.time} · Plenary Panel 1 · Coming soon {.fixed}
+[Dawn Wright · Chief Scientist · Environmental Systems Research Institute (Esri)]{.session-lead}
+
+## [2:00–3:00pm]{.time} · Plenary Panel · Navigating the Shifting Spatial Skills Landscape {.marquee}
+
+[Moderator: Angela Lee · Environmental Systems Research Institute (Esri)]{.session-lead}
+
+**Panelists:**
+
+TBA
 
 ## [3:00–3:30pm]{.time} · Coffee break {.fixed}
 
@@ -65,7 +73,7 @@ Version: September 01, 2026
 
 ### [1C]{.session-id} Lightning Talks I (209 - West Hollow) {.lightning}
 
-[Chair: Mateusz Rusin · Jagiellonian University]{.session-lead}
+[Chair: Jeff Blossom · Center for Geographic Analysis, Harvard University]{.session-lead}
 
 - *Everywhere she maps, she changes the discourse: A topic modeling of the gender discourse in YouthMappers blogs*  
   **Maliha Binte Mohiuddin · West Virginia University**, Natalia da Silveira Arruda, Patricia Solís, Brajesh Karna, Ebenezer Nana Kwaku Boateng, Courtney Clark
@@ -86,16 +94,16 @@ Version: September 01, 2026
 
 ### [1D]{.session-id} Who Writes the Map? AI, Authorship, and Publishing (221 - Branch View) {.panel}
 
-[Panel · moderated by Kexin Song]{.session-lead}
+[Panel · Moderator: Kexin Song · Yale University]{.session-lead}
 
 **Panelists**
 
-- Luke Sanford · Yale University
+- Shijuan Chen · University of Massachusetts Boston
 - Rachel Franklin · Harvard Center for Geographic Analysis
+- Luke Sanford · Yale University
 - Zhe (Sarina) Zhang · Texas A&M University
 
 ## [4:30–4:45pm]{.time} · Break {.fixed}
-
 
 ## [4:45–5:45pm]{.time} · Concurrent Sessions 2 {.fixed}
 
@@ -127,7 +135,7 @@ Version: September 01, 2026
 
 ### [2C]{.session-id} Lightning Talks II (209 - West Hollow) {.lightning}
 
-[Chair: Shoibolina Kaushik · Texas A&M University]{.session-lead}
+[Chair: Devika Jain · Center for Geographic Analysis, Harvard University]{.session-lead}
 
 - *The spatial clustering of utility-scale solar in Rhode Island*  
   **Christopher Battle · University of Rhode Island**
@@ -146,7 +154,7 @@ Version: September 01, 2026
 
 ### [2D]{.session-id} Data-Driven Design for Urban Landscapes: Practicing and Teaching Urban Forest Planning (221 - Branch View) {.panel}
 
-[Panel · moderated by Eric Kramer · Reed Hilderbrand Landscape Architecture and Harvard Graduate School of Design]{.session-lead}
+[Panel · Moderator: Eric Kramer · Reed Hilderbrand Landscape Architecture and Harvard Graduate School of Design]{.session-lead}
 
 **Panelists**
 
@@ -157,12 +165,20 @@ Version: September 01, 2026
 
 # Day 2 · Saturday, October 3
 
-## [9:00–10:00am]{.time} · Keynote 2 · Coming soon {.fixed}
+## [9:00–10:00am]{.time} · Keynote 2 · AI: Solution or Obstacle for Climate Adaptation? {.marquee}
 
-## [10:00–11:00am]{.time} · Plenary Panel 2 · Coming soon {.fixed}
+[Francesca Dominici · Director · Harvard Data Science Initiative and Clarence James Gamble Professor of Biostatistics · Harvard University]{.session-lead}
+
+## [10:00–11:00am]{.time} · Plenary Panel 2 · Localizing Spatial Intelligence for Crisis Response {.marquee}
+
+[Moderator: Andrew Schroeder · Gates Foundation]{.session-lead}
+
+**Panelists:**
+
+- Billie Bee · NASA Lifelines
+- Nathaniel Raymond · Yale Humanitarian Lab
 
 ## [11:00–11:30am]{.time} · Coffee break {.fixed}
-
 
 ## [11:30am–1:00pm]{.time} · Concurrent Sessions 3 {.fixed}
 
@@ -216,8 +232,6 @@ Version: September 01, 2026
   **Joseph Holler · Middlebury College**
 - *Crime, inequality, and urban space: using public safety data to reveal hidden geographies of urban vulnerability in Brazil*  
   **Rafael Mazoni · Fundação João Pinheiro (Brazil)**, Alexandre Diniz
-- *Mapping the demographic pump: A composite eco-demographic load index and spatial typology of core–periphery dynamics in Central Asia*  
-  **Assem Sarsembayeva · al-Farabi KazNU**, Stephen S.Young, Gulnara Nyssupova, Assel Bayatanova, Nurbolkyzy Aigerim, Gaukhar Aidarkhanova
 - *The Geography of Sustainable Packaging Waste in Europe*  
   **Urska Vrabic-Brodnjak · University of Ljubljana**
 
@@ -242,7 +256,6 @@ Version: September 01, 2026
 
 ## [1:00–2:00pm]{.time} · Networking lunch --- (lunch provided!) {.fixed}
 
-
 ## [2:00–3:15pm]{.time} · Concurrent Sessions 4 {.fixed}
 
 ### [4A]{.session-id} Land Cover, Change, and Conflict (201 - Riverbend)
@@ -255,8 +268,6 @@ Version: September 01, 2026
   **Pacifique Madibi · Clark University**, Jean-Paul Kibambe, Aiyin Zhang, Robert Pontius
 - *Exploring Hidden Landscapes - Seeing the Unseen with LiDAR in the Vegetated Terrain of New England and Palestine*  
   **Jeffrey C. Howry · Harvard Museum of the Ancient Near East**
-- *Tracking War from Above: New Frontiers and Responsibilities in Satellite Damage Mapping*  
-  **Jamon van den Hoek · Oregon State University**, Corey Scher
 - *GeoAI and Remote Sensing for Conflict, Displacement, and Environmental Change*  
   **Kexin Song · Yale University**, Luke Sanford · Yale University
 - *Cross-Regional Attention Networks in Climate Disasters: Mapping Asymmetric Spillovers and Blind Spots*  
@@ -272,8 +283,8 @@ Version: September 01, 2026
   **Megan Hutchison · The University of Texas at Dallas**, Mariem Gdoura, Heidi Kane, Patricia Sanchez, Christopher Davenport, May Yuan
 - *Geographic Analysis of Human Mobility and Animal Movement and Their Interaction Effects: From Spatial Data Science to Generative AI Approaches*  
   **Song Gao · University of Wisconsin-Madison**
-- *An LLM-Guided Framework for Analyzing Public Sentiment Toward Transportation Facilities Using Google Maps Reviews*  
-  **Yingrui Zhao · University of Maryland, College Park**
+- *Developing MEEP: A Platform for Mobility-Aware Environmental Exposure Evaluation within Cities*  
+  **Anastasia Soukhov · Western University**, Armita Kar, Rachel Franklin
 - *Leveraging Digital Trace Data to Measure Flood-Induced Population Displacement*  
   **Martina Pardy · University of Liverpool**, Elisabetta Pietrostefani, Matt Mason, Andrea Nasuto, Francisco Rowe
 - *Floods vs. Urban Mobility: The Role of Geospatial Intelligence in Transport Resilience*  
@@ -291,14 +302,12 @@ Version: September 01, 2026
   **Asish Satpathy · Arizona State University**, Sree Nandhan Prabhakar, Sudamshu Rao, Shreyas Ramani
 - *The Future of Geospatial Analysis: Accelerated Geospatial Research with GPU Data Processing, Vector Search, and AI*  
   **Todd Mostak · NVIDIA**
-- *Spatial Silicone: Establishing a Foundation for Geospatial Hardware*  
-  **Eric Shook · University of Minnesota**
 - *Reproducible Geospatial Knowledge Graphs with Apache Iceberg and RDF*  
   **Colton Loftus · Lincoln Institute of Land Policy, Center for Geospatial Solutions**
 
 ### [4D]{.session-id} From Participatory GIS to Decision-ready GeoAI: Building Trust in Geospatial AI (221 - Branch View) {.panel}
 
-[Panel · moderated by Shoibolina Kaushik Texas · A&M University]{.session-lead}
+[Panel · Moderator: Shoibolina Kaushik · Texas A&M University]{.session-lead}
 
 **Panelists**
 
@@ -308,7 +317,6 @@ Version: September 01, 2026
 - Peng Luo · University of Iowa
 
 ## [3:15–3:30pm]{.time} · Break {.fixed}
-
 
 ## [3:30–4:45pm]{.time} · Concurrent Sessions 5 {.fixed}
 
@@ -326,12 +334,14 @@ Version: September 01, 2026
   **Lixi Xu · UC Santa Barbara**, Peter Kedron
 - *SECT: A Spatiotemporal Explicit Causal Transformer for Path-Faithful Spatiotemporal Attribution*  
   Jikun Liu, **Zhe Zhang · Texas A&M University**, Nanzhou Hu, Yuan Niu
+- *An LLM-Guided Framework for Analyzing Public Sentiment Toward Transportation Facilities Using Google Maps Reviews*  
+  **Yingrui Zhao · University of Maryland, College Park**
 - *Safety-Aware Contraction Hierarchies for School Bus Routing with Maneuver-Level Turn Penalties*  
   **Zifu Wang · Harvard University**, Yu Zhou, Xueqiao Huang, Jason Wang, Nan Ding
 
 ### [5B]{.session-id} Segregation and Structural Inequalities (205 - Lane's Edge)
 
-[Chair: Peijin Sun · University of North Carolina at Chapel Hill]{.session-lead}
+[Chair: Hamish Gibbs · Northeastern University]{.session-lead}
 
 - *Persistent and Emerging Geographies of Structural Racism and Discrimination in the United States*  
   **Debs Ghosh · University of Connecticut**, Youshuang Hu
@@ -343,9 +353,8 @@ Version: September 01, 2026
   **Yona Chung · Harvard University Graduate School of Design**
 - *Writing the Speculative City: Reading Amaravati's Land Pooling Schedules as Relational Statecraft*  
   **Anand Datla · Texas A&M University**
-- *Advancing Geographic Analysis with Multimodal Large Language Models: Uncovering Perceptual Mechanisms of Urban Coastal Vitality*  
-  **Peijin Sun · University of North Carolina at Chapel Hill**
-
+- *A behavioral census of US cities from interpretable mobility embeddings*  
+  **Hamish Gibbs · Northeastern University**
 
 
 ### [5C]{.session-id} Foundation Models and Earth Embeddings (209 - West Hollow)
@@ -360,12 +369,14 @@ Version: September 01, 2026
   Mohit Agarwal, Mimi Sun, Chaitanya Kamath, **Arbaaz Muslim · Google**, Prithul Sarker, Joydeep Paul, Gautam Prasad
 - *GeoFM2Flow: Generating Human Mobility Flows from Geospatial Foundation Model Embeddings*  
   **Zhongfu Ma · University of Minnesota Twin Cities**, Meicheng Xiong, Di Zhu
+- *Advancing Geographic Analysis with Multimodal Large Language Models: Uncovering Perceptual Mechanisms of Urban Coastal Vitality*  
+  **Peijin Sun · University of North Carolina at Chapel Hill**
 - *Benchmark evaluation of large language models for human versus AI perception on urban environment through street view images*  
   **Siqin Wang · University of Southern California**, Zifu Wang, Xiao Huang, Lingbo Liu, Zhecheng Shi, Zongrong Li
 
 ### [5D]{.session-id} The Future of University GIS Centers in the AI Era (221 - Branch View) {.panel}
 
-[Panel · moderated by Chengbin Deng, University of Oklahoma]{.session-lead}
+[Panel · Moderator: Chengbin Deng · University of Oklahoma]{.session-lead}
 
 **Panelists**
 
@@ -375,11 +386,13 @@ Version: September 01, 2026
 - Jennifer Swenson · William & Mary
 - Wenwen Li · Arizona State University
 
-## [4:30–4:45pm]{.time} · Break {.fixed}
+## [4:45–5:00pm]{.time} · Break {.fixed}
 
-## [4:45–5:30pm]{.time} · Keynote 3 · Coming soon {.fixed}
+## [5:00–5:45pm]{.time} · Keynote 3 · Seeing Through the Silicon Gaze: Mapping Bias in Large Language Models{.marquee}
 
-## [5:30–6:00pm]{.time} · Conference closing + prizes {.fixed}
+[Matthew Zook · Roger DiSilvestro Professor · Department of Geography · University of Kentucky]{.session-lead}
+
+## [5:45–6:00pm]{.time} · Conference closing + prizes {.fixed}
 
 # Index
 
@@ -387,8 +400,6 @@ Version: September 01, 2026
 ## A
 
 - Mohit Agarwal (5C)
-- Gaukhar Aidarkhanova (3C) · gaukhar.aidarkhanova@gmail.com
-- Nurbolkyzy Aigerim (3C) · aikenti1987@inbox.ru
 - Jochen Albrecht (3D) · jochen.albrecht@gmail.com
 - Tawfiq Ammari (1B) · tawfiq.ammari@rutgers.edu
 - Clio Andris (2A) · clio@gatech.edu
@@ -403,10 +414,11 @@ Version: September 01, 2026
 - Heather Baier (2B) · hbaier@asu.edu
 - Jennifer Kakareka Balch (3B)
 - Christopher Battle (2C) · christopher.battle@uri.edu
-- Assel Bayatanova (3C) · bayatanova.assel@gmail.com
 - Kathy Baylis (3D) · baylis@ucsb.edu
+- Billie Bee (Plenary)
 - Rahel Bekele (1B) · rahel.bekele@duke.edu
 - Aleksander Berg (5C) · aleksander.berg@colorado.edu
+- Jeff Blossom (1C)
 - Ebenezer Nana Kwaku Boateng (1C) · eboaten4@asu.edu
 - Peter K. Bol (1A) · peter_bol@harvard.edu
 - Sebastien Box-Couillard (4A) · shl201@mail.usask.ca
@@ -416,7 +428,7 @@ Version: September 01, 2026
 
 - Anthony Campbell (3B) · anthony.d.campbell@nasa.gov
 - Jiahua Chen (3D) · jiahua_chen@ucsb.edu
-- Shijuan Chen (3B) · shijuan.chen@umb.edu
+- Shijuan Chen (1D, 3B) · shijuan.chen@umb.edu
 - Tzu-Hsin Karen Chen (3B)
 - Austin Cheng (1C) · austincheng98@gmail.com
 - Yona Chung (5B) · yoeunchung@gsd.harvard.edu
@@ -436,6 +448,7 @@ Version: September 01, 2026
 - Nan Ding (5A)
 - Alexandre Diniz (3C) · alexandrediniz@pucminas.br
 - Somayeh Dodge (4B) · sdodge@ucsb.edu
+- Francesca Dominici (Keynote 2)
 - Scott Duxbury (1B) · duxbury@email.unc.edu
 
 ## E
@@ -450,7 +463,7 @@ Version: September 01, 2026
 - Nadine Fares (3A) · nadineyfares@gmail.com
 - Cedric Fichot (3B) · cgfichot@bu.edu
 - Antonio Victor Galvão da Fonseca (3B, 4A) · antfonseca@clarku.edu
-- Rachel Franklin (1D)
+- Rachel Franklin (1D, 4B)
 - Amy E. Frazier (3B)
 
 ## G
@@ -461,13 +474,13 @@ Version: September 01, 2026
 - Saeed Ghadimi (1B) · sghadimi@uwaterloo.ca
 - Seyed Ali Ghorashi (2C)
 - Debs Ghosh (5B) · debarchana.ghosh@uconn.edu
+- Hamish Gibbs (5B)
 - Julie Goldman (2B) · julie_goldman@harvard.edu
 - Indrani Gosh (2D)
 - Zhining Gu (1B)
 
 ## H
 
-- Jamon van den Hoek (4A) · vandenhj@oregonstate.edu
 - Joseph Holler (3A, 3C, 3D) · josephh@middlebury.edu
 - Anthony Howell (1B) · Anthony.Howell@asu.edu
 - Jeffrey C. Howry (4A) · jhowry@fas.harvard.edu
@@ -478,13 +491,9 @@ Version: September 01, 2026
 - Yi Huang (4A) · yihuang@nau.edu.cn
 - Megan Hutchison (4B) · mah230002@utdallas.edu
 
-## I
-
-- B. L. Turner II (3B)
-
 ## J
 
-- Devika Jain (2B, 5A) · kakkar@fas.harvard.edu
+- Devika Jain (2B, 2C, 5A) · kakkar@fas.harvard.edu
 - Garima Jain (3B) · garimaj@stanford.edu
 - Jiwon Jang (1B)
 - Robert Gilmore Pontius Jr (3B, 4A) · rpontius@clarku.edu
@@ -495,6 +504,7 @@ Version: September 01, 2026
 - Chaitanya Kamath (5C)
 - Heidi Kane (4B) · hsk140330@utdallas.edu
 - Yuxin Kang (1B) · yuxin.kang@duke.edu
+- Armita Kar (4B)
 - Elliot Nana Karikari (2B) · elliot.n.karikari@gmail.com
 - Brajesh Karna (1C) · Brajesh.Karna@asu.edu
 - Shoibolina Kaushik (2C, 4D) · shoibolina.kaushik@gmail.com
@@ -517,6 +527,7 @@ Version: September 01, 2026
 ## L
 
 - Sam St. Lawrence (1B) · sam.stlawrence@duke.edu
+- Angela Lee (Plenary)
 - Elizaveta Lepikhova (1A) · lepikho2@uwm.edu
 - Stefan Leyk (5C) · stefan.leyk@colorado.edu
 - Teresa Xinyan Li (2C) · xinyanli@gsd.harvard.edu
@@ -564,7 +575,6 @@ Version: September 01, 2026
 - Andrea Nasuto (4B) · Andrea.Nasuto@liverpool.ac.uk
 - Trisalyn Nelson (3D) · trisalyn@ucsb.edu
 - Yuan Niu (5A) · ifyuan@tamu.edu
-- Gulnara Nyssupova (3C) · Gulnara.Nyusupova@kaznu.edu.kz
 
 ## O
 
@@ -597,6 +607,7 @@ Version: September 01, 2026
 - Ambuja Raj (1C) · amby.raj17@gmail.com
 - Shreyas Ramani (4C) · sraman30@asu.edu
 - Sudamshu Rao (4C) · sudamshu@asu.edu
+- Nathaniel Raymond (Plenary)
 - Anthony C. Robinson (3A) · arobinson@psu.edu
 - John Rogan (3B) · jrogan@clarku.edu
 - Francisco Rowe (4B) · fcorowe@liverpool.ac.uk
@@ -604,7 +615,6 @@ Version: September 01, 2026
 
 ## S
 
-- Stephen S.Young (3C) · syoung@salemstate.edu
 - Mehak Sachdeva (5B) · ms25d@fsu.edu
 - Joseph Saenz (1B)
 - Patricia Sanchez (4B) · PatriciaMonique.Sanchez@UTDallas.edu
@@ -613,9 +623,8 @@ Version: September 01, 2026
 - Sarigai Sarigai (2B, 3A) · sarigai@ucsb.edu
 - Prithul Sarker (5C)
 - Rebecca Sarpongasiedu (2B)
-- Assem Sarsembayeva (3C) · kalambekovna@gmail.com
 - Asish Satpathy (4C) · asish.satpathy@asu.edu
-- Corey Scher (4A) · scherc@oregonstate.edu
+- Andrew Schroeder (Plenary)
 - Franz Schug (3B)
 - Yvanna Serra (3B) · yserra@bu.edu
 - Karen C. Seto (3B)
@@ -624,16 +633,16 @@ Version: September 01, 2026
 - Alex de Sherbinin (5D)
 - Zhecheng Shi (5C)
 - Zhentao Shi (4A) · zhentao.shi@cuhk.edu.hk
-- Eric Shook (4C) · eshook@umn.edu
 - Arunesh Sinha (1B) · arunesh.sinha@rutgers.edu
 - Patricia Solís (1C) · patricia.solis@asu.edu
 - Kexin Song (1D, 4A) · kexin.song@yale.edu
+- Anastasia Soukhov (4B)
 - Kathleen Stewart (2A) · stewartk@umd.edu
 - Quentin Stoeffler (1B) · quentin.stoeffler@u-bordeaux.fr
 - Gianmario Strappati (3C) · gianmario.strappati@gmail.com
 - Anne-Kathrin Stroppe (3D) · anne-kathrin.stroppe@gesis.org
 - Mimi Sun (5C) · mimisun@google.com
-- Peijin Sun (5B) · sunpeijin75@gmail.com
+- Peijin Sun (5C) · sunpeijin75@gmail.com
 - Joel Suss (1B)
 - Jennifer Swenson (5D)
 
@@ -646,6 +655,7 @@ Version: September 01, 2026
 - Andrew Trgovac (2B, 3A) · drew.trgovac@asu.edu
 - Jaiany Rocha Trindade (5A) · jrochatrindade@fas.harvard.edu
 - Thalosang Tshireletso (2C) · thalosang77@gmail.com
+- B. L. Turner II (3B)
 
 ## V
 
@@ -660,6 +670,7 @@ Version: September 01, 2026
 - Shaowen Wang (5C) · shaowen@illinois.edu
 - Siqin Wang (5C) · siqinwan@usc.edu
 - Zifu Wang (5A, 5C) · zifu_wang@fas.harvard.edu
+- Dawn Wright (Keynote 1)
 - Yanan Wu (1A)
 
 ## X
@@ -682,9 +693,11 @@ Version: September 01, 2026
 - Zhe (Sarina) Zhang (1D)
 - Zhe Zhang (4D, 5A) · zhezhang@tamu.edu
 - Bo Zhao (3A)
-- Yingrui Zhao (4B) · yrzhao666@gmail.com
+- Yingrui Zhao (5A) · yrzhao666@gmail.com
 - Siqi Zheng (4A) · sqzheng@mit.edu
 - Emily Zhou (3D) · ezhou@ucsb.edu
 - Yu Zhou (5A)
 - Di Zhu (4C, 5C) · dizhu@umn.edu
+- Matthew Zook (Keynote 3)
 - Lei Zou (3A) · lzou@tamu.edu
+

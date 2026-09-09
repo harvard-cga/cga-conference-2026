@@ -72,15 +72,19 @@ p > strong:first-child { color: $crimson-deep; }
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
 
 // ---- Time-slot headings at ## level ----
-// Keynotes & plenary panels: marquee treatment (crimson band)
+// Keynotes & plenary panels: marquee treatment (elevated crimson band)
 h2.marquee {
-  background: $crimson;
+  background: linear-gradient(90deg, $crimson-deep 0%, $crimson 100%);
   color: #fff;
   border: none;
-  padding: 0.5rem 0.8rem;
-  border-radius: 2px;
-  font-size: 1.2rem;
-  margin-top: 1.6rem;
+  border-left: 6px solid $ink;
+  padding: 0.85rem 1rem;
+  border-radius: 3px;
+  font-size: 1.4rem;
+  font-weight: 700;
+  letter-spacing: 0.01em;
+  margin-top: 2.2rem;
+  box-shadow: 0 2px 6px rgba(30, 30, 30, 0.18);
 }
 // Breaks, opening, lunch, closing: quiet parchment strip
 h2.fixed {
@@ -115,6 +119,15 @@ h2.marquee .time { color: #fff; }
   margin: 0.1rem 0 0.5rem;
 }
 h3 + p em:only-child { color: $mortar; font-size: 0.9rem; }
+
+// Speaker/moderator line directly under a keynote or plenary marquee — a touch bolder
+h2.marquee + p .session-lead {
+  color: $crimson-deep;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 0.98rem;
+  margin-top: 0.35rem;
+}
 
 // ---- Session ID badge (e.g. 1A, 3C) on session headers ----
 .session-id {
