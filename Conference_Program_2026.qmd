@@ -119,7 +119,7 @@ TBA
 
 ### [2B]{.session-id} GIS Enterprise, Education, and Governance (205 - Lane's Edge)
 
-[Chair: Geri Miller · Esri]{.session-lead}
+[Chair: Jeff Blossom · Harvard Center for Geographic Analysis]{.session-lead}
 
 - *AI Is Changing Geographic Problem Solving;  Instruction Must Change Too*  
   Peter Kedron, **Sarigai Sarigai · UC Santa Barbara**, Heather Baier, Andrew Trgovac
@@ -268,7 +268,7 @@ TBA
 
 ### [4A]{.session-id} Land Cover, Change, and Conflict (201 - Riverbend)
 
-[Chair: Yilan Xu · University of Illinois]{.session-lead}
+[Chair: Bruce Boucek · Harvard Graduate School of Design]{.session-lead}
 
 - *A Pixel-Level Framework for Map Comparison Through Time with Application to Water Mapping in Plum Island Ecosystems, MA*  
   **Antonio Victor Galvao da Fonseca · Clark University**, Robert Gilmore Pontius Jr
@@ -423,8 +423,10 @@ TBA
 - Kathy Baylis (3D)
 - Rahel Bekele (1B)
 - Aleksander Berg (1C)
+- Jeff Blossom (2B)
 - Ebenezer Nana Kwaku Boateng (2C)
 - Peter K. Bol (1A)
+- Bruce Boucek (4A)
 - Sebastien Box-Couillard (4A)
 - Vinicius Andrade Brei (5A)
 
@@ -484,17 +486,12 @@ TBA
 - Joseph Holler (3A, 3C, 3D)
 - Anthony Howell (1B)
 - Jeffrey C. Howry (4A)
-- html:
 - Nanzhou Hu (5A)
 - Youshuang Hu (5B)
 - Xiao Huang (2C, 4D, 5A, 5C)
 - Xueqiao Huang (5A)
 - Yi Huang (4A)
 - Megan Hutchison (4B)
-
-## I
-
-- B. L. Turner II (3B)
 
 ## J
 
@@ -654,6 +651,7 @@ TBA
 - Xiao Di Tong (3C)
 - Andrew Trgovac (2B, 3A)
 - Jaiany Rocha Trindade (5A)
+- B. L. Turner II (3B)
 
 ## V
 
@@ -685,8 +683,7 @@ TBA
 ## Z
 
 - Aiyin Zhang (3B, 4A)
-- Zhe (Sarina) Zhang (1D)
-- Zhe Zhang (4D, 5A)
+- Zhe (Sarina) Zhang (1D, 4D, 5A)
 - Bo Zhao (3A)
 - Yingrui Zhao (5A)
 - Siqi Zheng (4A)
