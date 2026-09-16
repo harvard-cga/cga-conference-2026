@@ -15,7 +15,7 @@ editor: source
 
 ![](images/cga-shield.png){.shield fig-alt="CGA shield"}
 
-Version: September 16, 2026
+**Version**: September 16, 2026 (some talks have been moved, to maximize presentation time; please check your assignment!)
 
 # Day 1 · Friday, October 2
 
@@ -28,6 +28,13 @@ Version: September 16, 2026
 ## [1:15–2:00pm]{.time} · Keynote · Empowering Explorers{.marquee}
 
 [Dawn Wright · Chief Scientist · Environmental Systems Research Institute (Esri)]{.session-lead}
+
+![](images/wright.jpg){.keynote-photo fig-alt="Dawn Wright"}
+
+[Dawn Wright is Chief Scientist of Esri, working to strengthen the scientific foundation for the company's products and services. As a research lead both at Esri and Oregon State University, she has produced some of the most definitive literature on geographic information system (GIS) technology for the ocean. An elected member of both the National Academy of Sciences and the National Academy of Engineering, she earned her doctorate in Geography and Geology from UC Santa Barbara. In 2022, Dawn became the first Black person to visit Challenger Deep, the deepest and most unexplored place on planet Earth.]{.keynote-bio}
+
+::: {.keynote-clear}
+:::
 
 ## [2:00–3:00pm]{.time} · Plenary Panel 1 · Navigating the Shifting Spatial Skills Landscape {.marquee}
 
@@ -165,15 +172,23 @@ TBA
 
 [Francesca Dominici · Director · Harvard Data Science Initiative and Clarence James Gamble Professor of Biostatistics · Harvard University]{.session-lead}
 
+![](images/dominici.jpg){.keynote-photo fig-alt="Francesca Dominici"}
+
+[Dr. Francesca Dominici is the Clarence James Gamble Professor of Biostatistics, Population and Data Science at the Harvard T.H. Chan School of Public Health and Director of the Harvard Data Science Initiative. Dr. Dominici is also the founder and lead Principal Investigator for the National Studies on Air Pollution and Health group, and a co-founding PI and leader for the BUSPH-HSPH Climate Change and Health Research Coordinating Center. Dr. Dominici's research focuses on machine learning, Artificial Intelligence, causal inference, and data science to impact climate and environmental policy. Her studies have directly impacted air quality policy in the U.S.]{.keynote-bio}
+
+::: {.keynote-clear}
+:::
+
 ## [10:00–11:00am]{.time} · Plenary Panel 2 · Localizing Spatial Intelligence for Crisis Response {.marquee}
 
 [Moderator: Andrew Schroeder · Gates Foundation]{.session-lead}
 
 **Panelists:**
 
+- Andrew Schroeder · Gates Foundation / CrisisReady
+- Liz Chamberlain · Humanitarian Open Street Map Team (HOT)
 - Billie Bee · NASA Lifelines
 - Nathaniel Raymond · Yale Humanitarian Lab
-- Liz Chamberlain · Humanitarian Open Street Map Team (HOT)
 
 ## [11:00–11:30am]{.time} · Coffee break {.fixed}
 
@@ -376,6 +391,13 @@ TBA
 ## [5:00–5:45pm]{.time} · Keynote 3 · Seeing Through the Silicon Gaze: Mapping Bias in Large Language Models{.marquee}
 
 [Matthew Zook · Roger DiSilvestro Professor · Department of Geography · University of Kentucky]{.session-lead}
+
+![](images/zook.jpg){.keynote-photo fig-alt="Matthew Zook"}
+
+[Matthew Zook is a University Research Professor and Roger DiSilvestro Professor in the Department of Geography at the University of Kentucky focused on Urban and Digital Geographies. His work combines critical approaches from urban planning, data/software studies, and heterodox economics with technical and qualitative methods to analyze how urban technologies and data-driven systems reshape cities and governance. He is currently Editor-in-Chief of the open-access SAGE journal Big Data & Society and a co-editor of Elsevier's Progress in Economic Geography.]{.keynote-bio}
+
+::: {.keynote-clear}
+:::
 
 ## [5:45–6:00pm]{.time} · Conference closing + prizes {.fixed}
 

@@ -144,3 +144,26 @@ h2.marquee + p .session-lead {
 }
 h3.lightning .session-id { background: $crimson-deep; }
 h3.panel .session-id { background: $crimson-deep; }
+
+// ---- Keynote speaker photo + bio (float layout) ----
+// Photo floats left; bio text wraps to its right and below.
+// Fixed height keeps all three faces at the same scale; width stays natural.
+.keynote-photo {
+  float: left;
+  height: 130px;
+  width: auto;
+  margin: 0.2rem 1rem 0.6rem 0;
+  border-radius: 3px;
+  border: 1px solid $mortar;
+  box-shadow: 0 1px 4px rgba(30, 30, 30, 0.15);
+}
+// Bio paragraph under a keynote marquee — sits beside/around the photo
+.keynote-bio {
+  font-size: 0.9rem;
+  line-height: 1.5;
+  color: $ink;
+  margin: 0.2rem 0 0.4rem;
+}
+// Clear the float so the next time-slot heading starts cleanly below the photo
+.keynote-bio::after,
+.keynote-clear { content: ""; display: block; clear: both; }
