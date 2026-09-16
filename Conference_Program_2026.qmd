@@ -66,25 +66,21 @@ TBA
   **Anthony Howell · Arizona State University**
 - *Household energy choice in rural Ethiopia: An agent-based approach*  
   **Dylan Munson · Duke University**, Rahel Bekele, Yuxin Kang, Scott Duxbury, Sam St. Lawrence, Dana Pasquale
-- *Spatial Patterns of Health and Displacement in Uranium Mining Regions: A Comparative GIS-Based Study of Jadugoda (India), Navajo Nation (USA), and Ranger Mine, Kakadu (Australia)*  
-  **Abhijeet Kumar · Ranchi University India**, Robert Pradeep Kujur · St. Xavier’s College Ranchi
 - *Community Wealth Protects Cognitive Health for Older Adults*  
   **Dylan Connor · Arizona State University**, Connor Sheehan, Jiwon Jang, Tom Kemeny, Joel Suss, Mercedes Molina, Siqiao Xie, Zhining Gu, Joseph Saenz
 
-### [1C]{.session-id} Lightning Talks I (209 - West Hollow) {.lightning}
+### [1C]{.session-id} Environmental Exposure and Vulnerability (209 - West Hollow)
 
-[Chair: Jeff Blossom · Center for Geographic Analysis, Harvard University]{.session-lead}
+[Chair: Melie Monnerat · McGill University]{.session-lead}
 
-- *Everywhere she maps, she changes the discourse: A topic modeling of the gender discourse in YouthMappers blogs*  
-  **Maliha Binte Mohiuddin · West Virginia University**, Natalia da Silveira Arruda, Patricia Solís, Brajesh Karna, Ebenezer Nana Kwaku Boateng, Courtney Clark
-- *Labor Mobility in Cannabis Production and Territorial Contradictions in Regulated Markets*  
-  **Rogério de Mambro · PPGH - USP (Programa de Pós Graduação em Geografia Humana - Universidade de São Paulo**
-- *Beyond Proximity: Measuring Quality Childcare Access as Spatial Equity Problem in New York City*  
-  **Chaitanya Kukreja · New York University - Center of Urban Science + Progress**
-- *Past Decisions, Present Barriers, and Future Access: A GIS-Based Analysis of Spatial Disparities in Indigenous Grain Market Access in Manitoba, Canada*  
-  **Supul Muhandiram · University of Manitoba**, Narendra Malalgoda
-- *Spatial Patterns of Luxury Fashion in Milan: Towards a Typology of Fashion Districts*  
-  **Mateusz Rusin · Jagiellonian University**
+- *Spatial Patterns of Health and Displacement in Uranium Mining Regions: A Comparative GIS-Based Study of Jadugoda (India), Navajo Nation (USA), and Ranger Mine, Kakadu (Australia)*  
+  **Abhijeet Kumar · Ranchi University India**, Robert Pradeep Kujur · St. Xavier’s College Ranchi
+- *Leveraging Digital Trace Data to Measure Flood-Induced Population Displacement*  
+  **Martina Pardy · University of Liverpool**, Elisabetta Pietrostefani, Matt Mason, Andrea Nasuto, Francisco Rowe
+- *Spatial Scale Effects in Foundation Model Earth Embeddings: A Case Study on Predicting the Exposure of Structures to Wildfire in Colorado, USA*  
+  **Aleksander Berg · University of Colorado Boulder**, Stefan Leyk
+- *Looking Below the Canopy: Grounding Geographic Analysis in Vietnam's Cinnamon Commodity Landscape*  
+  **Melie Monnerat · McGill University**
 
 ### [1D]{.session-id} Who Writes the Map? AI, Authorship, and Publishing (221 - Branch View) {.panel}
 
@@ -109,6 +105,8 @@ TBA
   **Ghermay Araya · New Light Technologies, Inc.**
 - *LLM-based Generation of Geospatial Synthetic Data for Analyzing Spatial Patterns of Health Outcomes and Disparities*  
   **Haley Mullen · Tufts University**, Kathleen Stewart
+- *Uneven Access: Mapping Contraceptive Care Across Texas*  
+  **Mahboobe Safaei Mehr · The University of Texas at Austin**
 - *Human-Network Regions as Effective Geographic Units for Disease Mitigation*  
   **Clio Andris · Georgia Tech**, Caglar Koylu, Mason A. Porter
 
@@ -125,7 +123,7 @@ TBA
 - *Evolution of GIS - Enterprise GIS, Systems Thinking and Governance*  
   **Geri Miller · Esri**
 
-### [2C]{.session-id} Lightning Talks II (209 - West Hollow) {.lightning}
+### [2C]{.session-id} Lightning Talks (209 - West Hollow) {.lightning}
 
 [Chair: Devika Jain · Center for Geographic Analysis, Harvard University]{.session-lead}
 
@@ -139,6 +137,16 @@ TBA
   **Teresa Xinyan Li · Harvard University**
 - *From Satellite Detection to Field Intervention: Operational Lessons for GeoAI*  
   **Shoibolina Kaushik · Texas A&M University**, Xiao Huang
+- *Everywhere she maps, she changes the discourse: A topic modeling of the gender discourse in YouthMappers blogs*  
+  **Maliha Binte Mohiuddin · West Virginia University**, Natalia da Silveira Arruda, Patricia Solís, Brajesh Karna, Ebenezer Nana Kwaku Boateng, Courtney Clark
+- *Labor Mobility in Cannabis Production and Territorial Contradictions in Regulated Markets*  
+  **Rogério de Mambro · PPGH - USP (Programa de Pós Graduação em Geografia Humana - Universidade de São Paulo**
+- *Beyond Proximity: Measuring Quality Childcare Access as Spatial Equity Problem in New York City*  
+  **Chaitanya Kukreja · New York University - Center of Urban Science + Progress**
+- *Past Decisions, Present Barriers, and Future Access: A GIS-Based Analysis of Spatial Disparities in Indigenous Grain Market Access in Manitoba, Canada*  
+  **Supul Muhandiram · University of Manitoba**, Narendra Malalgoda
+- *Spatial Patterns of Luxury Fashion in Milan: Towards a Typology of Fashion Districts*  
+  **Mateusz Rusin · Jagiellonian University**
 
 ### [2D]{.session-id} Data-Driven Design for Urban Landscapes: Practicing and Teaching Urban Forest Planning (221 - Branch View) {.panel}
 
@@ -200,8 +208,6 @@ TBA
   **Jordi Palacios · Boston Univerity**, Hangjie Lin, Cedric Fichot, Sergio Fagherazzi
 - *Urbanization and wildfire exposure in the wildland urban interface of the Himalayas*  
   **Shijuan Chen · UMass Boston**, Kyle Thomas Manley, Jennifer Kakareka Balch, Volker C Radeloff, Franz Schug, Tzu-Hsin Karen Chen, Karen C. Seto
-- *Looking Below the Canopy: Grounding Geographic Analysis in Vietnam's Cinnamon Commodity Landscape*  
-  **Melie Monnerat · McGill University**
 - *Integration of Three Novel Methods to Characterize Land Cover Change Using a Time Series of Maps in a Coastal Wetland Ecosystem*  
   **Robert Gilmore Pontius Jr · Clark University**, Abigail Phillips, Antonio Victor Galvão da Fonseca, Aiyin Zhang, Sergio Fagherazzi
 - *From adaptation to entrapment: Evidence of aquaculture-induced salinity feedback in coastal India*  
@@ -219,6 +225,8 @@ TBA
   **Joseph Holler · Middlebury College**
 - *Crime, inequality, and urban space: using public safety data to reveal hidden geographies of urban vulnerability in Brazil*  
   **Rafael Mazoni · Fundação João Pinheiro (Brazil)**, Alexandre Diniz
+- *Terrain, Signal, and Access: Spatial Analysis of Telecom Networks*  
+  **Kyungmin Kim · Harvard University Graduate School of Design**
 - *The Geography of Sustainable Packaging Waste in Europe*  
   **Urska Vrabic-Brodnjak · University of Ljubljana**
 
@@ -232,8 +240,6 @@ TBA
   **Daria Dementeva · Luxembourg Institute of Socio-Economic Research (LISER)**, Anne-Kathrin Stroppe · GESIS – Leibniz Institute for the Social Sciences
 - *Building the National Zoning Atlas*  
   **Scott Markley · National Zoning Atlas**
-- *Terrain, Signal, and Access: Spatial Analysis of Telecom Networks*  
-  **Kyungmin Kim · Harvard University Graduate School of Design**
 - *Spatial Representation and Ambiguity of Study-Site Metadata: Reconstructing Study Sites for a Congo Basin Forest-Change Meta-Analysis*  
   **Emily Zhou · University of California Santa Barbara**, Peter Kedron, Niwaeli Kimambo, Sarah Tolbert, Joseph Holler
 - *Distance Decay as a Foundational Geographic Analysis Concept: From Spatial Interaction to Multiscale Spatial Smoothing and Beyond*  
@@ -272,8 +278,6 @@ TBA
   **Song Gao · University of Wisconsin-Madison**
 - *Developing MEEP: A Platform for Mobility-Aware Environmental Exposure Evaluation within Cities*  
   **Anastasia Soukhov · Western University**, Armita Kar, Rachel Franklin
-- *Leveraging Digital Trace Data to Measure Flood-Induced Population Displacement*  
-  **Martina Pardy · University of Liverpool**, Elisabetta Pietrostefani, Matt Mason, Andrea Nasuto, Francisco Rowe
 - *Floods vs. Urban Mobility: The Role of Geospatial Intelligence in Transport Resilience*  
   **Hande Demirel · Istanbul Technical University**, Gulsah Kılıc
 
@@ -332,8 +336,6 @@ TBA
   **Debs Ghosh · University of Connecticut**, Youshuang Hu
 - *Segregation you cannot see on a map: the social reach of the color line*  
   **Mehak Sachdeva · Florida State University**
-- *Uneven Access: Mapping Contraceptive Care Across Texas*  
-  **Mahboobe Safaei Mehr · The University of Texas at Austin**
 - *Mapping Aspiration: Lifestyle Change and Amenity Geographies in Seoul, 1995–2022*  
   **Yona Chung · Harvard University Graduate School of Design**
 - *Writing the Speculative City: Reading Amaravati's Land Pooling Schedules as Relational Statecraft*  
@@ -346,8 +348,6 @@ TBA
 
 [Chair: Siqin Wang · University of Southern California]{.session-lead}
 
-- *Spatial Scale Effects in Foundation Model Earth Embeddings: A Case Study on Predicting the Exposure of Structures to Wildfire in Colorado, USA*  
-  **Aleksander Berg · University of Colorado Boulder**, Stefan Leyk
 - *Spatial AI for Spatiotemporal Satellite Image Fusion*  
   **Fangzheng Lyu · Virginia Tech**, Zijun Yang, Chunyuan Diao, Shaowen Wang
 - *General Geospatial Inference with a Population Dynamics Foundation Model*  
@@ -385,298 +385,290 @@ TBA
 ## A
 
 - Mohit Agarwal (5C)
-- Jochen Albrecht (3D) · jochen.albrecht@gmail.com
-- Tawfiq Ammari (1B) · tawfiq.ammari@rutgers.edu
-- Clio Andris (2A) · clio@gatech.edu
-- Ghermay Araya (2A) · ghermay.araya@nltgis.com
-- Natalia da Silveira Arruda (1C) · narruda@asu.edu
+- Jochen Albrecht (3D)
+- Tawfiq Ammari (1B)
+- Clio Andris (2A)
+- Ghermay Araya (2A)
+- Natalia da Silveira Arruda (2C)
 - Antonio Aruta (4C)
 - Domenico Asprone (4C)
 
 ## B
 
-- Meghdad Bagheri (2C)
-- Heather Baier (2B) · hbaier@asu.edu
+- Heather Baier (2B)
 - Jennifer Kakareka Balch (3B)
-- Christopher Battle (2C) · christopher.battle@uri.edu
-- Kathy Baylis (3D) · baylis@ucsb.edu
-- Billie Bee (Plenary)
-- Rahel Bekele (1B) · rahel.bekele@duke.edu
-- Aleksander Berg (5C) · aleksander.berg@colorado.edu
-- Jeff Blossom (1C)
-- Ebenezer Nana Kwaku Boateng (1C) · eboaten4@asu.edu
-- Peter K. Bol (1A) · peter_bol@harvard.edu
-- Sebastien Box-Couillard (4A) · shl201@mail.usask.ca
-- Vinicius Andrade Brei (5A) · brei@ufrgs.br
+- Christopher Battle (2C)
+- Kathy Baylis (3D)
+- Rahel Bekele (1B)
+- Aleksander Berg (1C)
+- Ebenezer Nana Kwaku Boateng (2C)
+- Peter K. Bol (1A)
+- Sebastien Box-Couillard (4A)
+- Vinicius Andrade Brei (5A)
 
 ## C
 
-- Anthony Campbell (3B) · anthony.d.campbell@nasa.gov
-- Liz Chamberlain (Plenary)
-- Jiahua Chen (3D) · jiahua_chen@ucsb.edu
-- Shijuan Chen (1D, 3B) · shijuan.chen@umb.edu
+- Anthony Campbell (3B)
+- Jiahua Chen (3D)
+- Shijuan Chen (1D, 3B)
 - Tzu-Hsin Karen Chen (3B)
-- Yona Chung (5B) · yoeunchung@gsd.harvard.edu
+- Yona Chung (5B)
 - Antonio Cianciulli (4C)
-- Courtney Clark (1C) · clarkcourtney54@gmail.com
-- Dylan Connor (1B, 3B) · d.c@asu.edu
+- Courtney Clark (2C)
+- Dylan Connor (1B, 3B)
 
 ## D
 
-- Anand Datla (5B) · anand@tamu.edu
-- Christopher Davenport (4B) · Christopher.Davenport@UTDallas.edu
-- Daria Dementeva (1A, 3D) · daria.dementeva@liser.lu
-- Hande Demirel (4B) · hande.demirel@itu.edu.tr
-- Chengbin Deng (1A, 5D) · cdeng@ou.edu
-- Chunyuan Diao (5C) · chunyuan@illinois.edu
+- Anand Datla (5B)
+- Christopher Davenport (4B)
+- Daria Dementeva (1A, 3D)
+- Hande Demirel (4B)
+- Chengbin Deng (1A, 5D)
+- Chunyuan Diao (5C)
 - Nan Ding (5A)
-- Alexandre Diniz (3C) · alexandrediniz@pucminas.br
-- Somayeh Dodge (4B) · sdodge@ucsb.edu
-- Francesca Dominici (Keynote 2)
-- Scott Duxbury (1B) · duxbury@email.unc.edu
+- Alexandre Diniz (3C)
+- Somayeh Dodge (4B)
+- Scott Duxbury (1B)
 
 ## E
 
 - Hallie Eakin (3B)
-- Janniah Evans (2C) · janniah.evans.19@ucl.ac.uk
+- Janniah Evans (2C)
 
 ## F
 
-- Sergio Fagherazzi (3B) · Sergio@bu.edu
-- Yichun Fan (4A) · yichun.fan@duke.edu
-- Nadine Fares (3A) · nadineyfares@gmail.com
-- Cedric Fichot (3B) · cgfichot@bu.edu
-- Antonio Victor Galvão da Fonseca (3B, 4A) · antfonseca@clarku.edu
+- Sergio Fagherazzi (3B)
+- Yichun Fan (4A)
+- Nadine Fares (3A)
+- Cedric Fichot (3B)
+- Antonio Victor Galvão da Fonseca (3B, 4A)
 - Rachel Franklin (1D, 4B)
 - Amy E. Frazier (3B)
 
 ## G
 
-- Song Gao (4B) · song.gao@wisc.edu
-- Krittika Garg (1B) · kg3356@nyu.edu
-- Mariem Gdoura (4B) · mxg230023@utdallas.edu
-- Saeed Ghadimi (1B) · sghadimi@uwaterloo.ca
-- Seyed Ali Ghorashi (2C)
-- Debs Ghosh (5B) · debarchana.ghosh@uconn.edu
+- Song Gao (4B)
+- Krittika Garg (1B)
+- Mariem Gdoura (4B)
+- Saeed Ghadimi (1B)
+- Debs Ghosh (5B)
 - Hamish Gibbs (5B)
-- Julie Goldman (2B) · julie_goldman@harvard.edu
+- Julie Goldman (2B)
 - Indrani Gosh (2D)
 - Zhining Gu (1B)
 
 ## H
 
-- Joseph Holler (3A, 3C, 3D) · josephh@middlebury.edu
-- Anthony Howell (1B) · Anthony.Howell@asu.edu
-- Jeffrey C. Howry (4A) · jhowry@fas.harvard.edu
-- Nanzhou Hu (5A) · nz972019@tamu.edu
+- Joseph Holler (3A, 3C, 3D)
+- Anthony Howell (1B)
+- Jeffrey C. Howry (4A)
+- html:
+- Nanzhou Hu (5A)
 - Youshuang Hu (5B)
-- Xiao Huang (2C, 4D, 5A, 5C) · xiao.huang2@emory.edu
+- Xiao Huang (2C, 4D, 5A, 5C)
 - Xueqiao Huang (5A)
-- Yi Huang (4A) · yihuang@nau.edu.cn
-- Megan Hutchison (4B) · mah230002@utdallas.edu
+- Yi Huang (4A)
+- Megan Hutchison (4B)
+
+## I
+
+- B. L. Turner II (3B)
 
 ## J
 
-- Devika Jain (2B, 2C, 5A) · kakkar@fas.harvard.edu
-- Garima Jain (3B) · garimaj@stanford.edu
+- Devika Jain (2B, 2C, 5A)
+- Garima Jain (3B)
 - Jiwon Jang (1B)
-- Robert Gilmore Pontius Jr (3B, 4A) · rpontius@clarku.edu
-- Woojin Jung (1B) · wj153@ssw.rutgers.edu
+- Robert Gilmore Pontius Jr (3B, 4A)
+- Woojin Jung (1B)
 
 ## K
 
 - Chaitanya Kamath (5C)
-- Heidi Kane (4B) · hsk140330@utdallas.edu
-- Yuxin Kang (1B) · yuxin.kang@duke.edu
+- Heidi Kane (4B)
+- Yuxin Kang (1B)
 - Armita Kar (4B)
-- Elliot Nana Karikari (2B) · elliot.n.karikari@gmail.com
-- Brajesh Karna (1C) · Brajesh.Karna@asu.edu
-- Shoibolina Kaushik (2C, 4D) · shoibolina.kaushik@gmail.com
-- Peter Kedron (2B, 3A, 3D, 5A) · peterkedron@ucsb.edu
+- Elliot Nana Karikari (2B)
+- Brajesh Karna (2C)
+- Shoibolina Kaushik (2C, 4D)
+- Peter Kedron (2B, 3A, 3D, 5A)
 - Slide Kelly (2D)
 - Tom Kemeny (1B)
-- Jean-Paul Kibambe (4A) · jpkibambe@unikin.ac.cd
-- Andrew H. Kim (1B) · ahjkim92@ssw.rutgers.edu
-- Kyungmin Kim (3D) · kyungmin_kim@gsd.harvard.edu
+- Jean-Paul Kibambe (4A)
+- Andrew H. Kim (1B)
+- Kyungmin Kim (3C)
 - Niwaeli Kimambo (3D)
 - Caglar Koylu (2A)
-- Eric Kramer (2D) · eric@reedhilderbrand.com
-- Robert Pradeep Kujur (1B)
-- Chaitanya Kukreja (1C) · cak10000@nyu.edu
-- Umme Kulsum (2C) · umme.kulsum@utdallas.edu
-- Abhijeet Kumar (1B) · abhijeet.sxc@gmail.com
-- Gulsah Kılıc (4B) · kilicg18@itu.edu.tr
+- Eric Kramer (2D)
+- Robert Pradeep Kujur (1C)
+- Chaitanya Kukreja (2C)
+- Umme Kulsum (2C)
+- Abhijeet Kumar (1C)
+- Gulsah Kılıc (4B)
 
 ## L
 
-- Sam St. Lawrence (1B) · sam.stlawrence@duke.edu
-- Angela Lee (Plenary)
-- Elizaveta Lepikhova (1A) · lepikho2@uwm.edu
-- Stefan Leyk (5C) · stefan.leyk@colorado.edu
-- Teresa Xinyan Li (2C) · xinyanli@gsd.harvard.edu
+- Sam St. Lawrence (1B)
+- Angela Lee
+- Elizaveta Lepikhova (1A)
+- Stefan Leyk (1C)
+- Teresa Xinyan Li (2C)
 - Wenwen Li (5D)
 - Zongrong Li (5C)
 - Laura Lieto (4C)
-- Hangjie Lin (3B) · hangjiel@bu.edu
-- Yue Lin (3A) · linyue@illinois.edu
-- Belle Lipton (2B) · belle_lipton@harvard.edu
-- Jikun Liu (5A) · jikun@tamu.edu
-- Lingbo Liu (5C) · lingboliu@hkust-gz.edu.cn
-- Colton Loftus (4C) · cloftus@lincolninst.edu
+- Hangjie Lin (3B)
+- Yue Lin (3A)
+- Belle Lipton (2B)
+- Jikun Liu (5A)
+- Lingbo Liu (5C)
+- Colton Loftus (4C)
 - Peng Luo (4D)
 - Shanyu Luo (3A)
-- Fangzheng Lyu (5C) · fangzheng@vt.edu
+- Fangzheng Lyu (5C)
 
 ## M
 
-- Zhongfu Ma (4C, 5C) · ma000523@umn.edu
-- Pacifique Madibi (4A) · pmadibi@clarku.edu
-- Narendra Malalgoda (1C) · Narendra.Malalgoda@umanitoba.ca
-- Rogério de Mambro (1C) · rogerio.mambro@usp.br
+- Zhongfu Ma (4C, 5C)
+- Pacifique Madibi (4A)
+- Narendra Malalgoda (2C)
+- Rogério de Mambro (2C)
 - Kyle Thomas Manley (3B)
-- Scott Markley (3D) · scott@landuseatlas.org
-- Matt Mason (4B) · Matt.Mason@liverpool.ac.uk
-- Rafael Mazoni (3C) · rafaelmazoni13@gmail.com
-- Mahboobe Safaei Mehr (5B) · m_safaei@utexas.edu
-- Geri Miller (2B) · geri_miller@esri.com
+- Scott Markley (3D)
+- Matt Mason (1C)
+- Rafael Mazoni (3C)
+- Mahboobe Safaei Mehr (2A)
+- Geri Miller (2B)
 - Deepak Mishra (5D)
-- Emilio Misuriello (4C) · emisuriello@esriitalia.it
-- Maliha Binte Mohiuddin (1C) · mb00061@mix.wvu.edu
+- Emilio Misuriello (4C)
+- Maliha Binte Mohiuddin (2C)
 - Mercedes Molina (1B)
-- Melie Monnerat (3B) · meliemonnerat@gmail.com
+- Melie Monnerat (1C)
 - Giuseppe Morone (4C)
 - Todd Mostak (4C)
-- Supul Muhandiram (1C) · supul.muhandiram@umanitoba.ca
-- Haley Mullen (2A) · mullenh@umd.edu
-- Dylan Munson (1B) · dylan.munson@duke.edu
+- Supul Muhandiram (2C)
+- Haley Mullen (2A)
+- Dylan Munson (1B)
 - Alan Murray (5D)
-- Arbaaz Muslim (5C) · arbaazmuslim@google.com
+- Arbaaz Muslim (5C)
 
 ## N
 
-- Andrea Nasuto (4B) · Andrea.Nasuto@liverpool.ac.uk
-- Trisalyn Nelson (3D) · trisalyn@ucsb.edu
-- Yuan Niu (5A) · ifyuan@tamu.edu
+- Andrea Nasuto (1C)
+- Trisalyn Nelson (3D)
+- Yuan Niu (5A)
 
 ## O
 
-- Taylor Oshan (3D) · tayoshan@gmail.com
+- Taylor Oshan (3D)
 
 ## P
 
-- Jordi Palacios (3B) · jordipg@bu.edu
-- Martina Pardy (4B) · m.l.pardy@liverpool.ac.uk
-- Dana Pasquale (1B) · dana.pasquale@duke.edu
-- Joydeep Paul (5C) · joydeepp@google.com
-- Abigail Phillips (3B) · AbPhillips@clarku.edu
+- Jordi Palacios (3B)
+- Martina Pardy (1C)
+- Dana Pasquale (1B)
+- Joydeep Paul (5C)
+- Abigail Phillips (3B)
 - Max Robert Louis Piana (2D)
-- Elisabetta Pietrostefani (4B) · E.Pietrostefani@liverpool.ac.uk
-- Bárbara Polo-Martín (1A) · barbara.polo@uam.es
-- Robert Pontius (4A) · rpontius@clarku.edu
+- Elisabetta Pietrostefani (1C)
+- Bárbara Polo-Martín (1A)
+- Robert Pontius (4A)
 - Mason A. Porter (2A)
-- Sree Nandhan Prabhakar (4C) · sprabh47@asu.edu
-- Gautam Prasad (5C) · gautamprasad@google.com
-- Milap Punia (2C) · milapjnu@gmail.com
+- Sree Nandhan Prabhakar (4C)
+- Gautam Prasad (5C)
 
 ## Q
 
 - Fang Qiu (2C)
-- Amy Yeboah Quarkume (2B) · amy.yeboah@Howard.edu
+- Amy Yeboah Quarkume (2B)
 
 ## R
 
 - Volker C Radeloff (3B)
-- Shreyas Ramani (4C) · sraman30@asu.edu
-- Sudamshu Rao (4C) · sudamshu@asu.edu
-- Nathaniel Raymond (Plenary)
-- Anthony C. Robinson (3A) · arobinson@psu.edu
-- John Rogan (3B) · jrogan@clarku.edu
-- Francisco Rowe (4B) · fcorowe@liverpool.ac.uk
-- Mateusz Rusin (1C) · rusinowski32@gmail.com
+- Shreyas Ramani (4C)
+- Sudamshu Rao (4C)
+- Anthony C. Robinson (3A)
+- John Rogan (3B)
+- Francisco Rowe (1C)
+- Mateusz Rusin (2C)
 
 ## S
 
-- Mehak Sachdeva (5B) · ms25d@fsu.edu
+- Mehak Sachdeva (5B)
 - Joseph Saenz (1B)
-- Patricia Sanchez (4B) · PatriciaMonique.Sanchez@UTDallas.edu
-- Luke Sanford (1D, 4A) · luke.sanford@yale.edu
-- Florencia Sangermano (3B) · fsangermano@clarku.edu
-- Sarigai Sarigai (2B, 3A) · sarigai@ucsb.edu
+- Patricia Sanchez (4B)
+- Luke Sanford (1D, 4A)
+- Florencia Sangermano (3B)
+- Sarigai Sarigai (2B, 3A)
 - Prithul Sarker (5C)
 - Rebecca Sarpongasiedu (2B)
-- Asish Satpathy (4C) · asish.satpathy@asu.edu
-- Andrew Schroeder (Plenary)
+- Asish Satpathy (4C)
+- Andrew Schroeder (2D)
 - Franz Schug (3B)
-- Yvanna Serra (3B) · yserra@bu.edu
+- Yvanna Serra (3B)
 - Karen C. Seto (3B)
-- Vatsal Shah (1B) · vatsal.b.shah99@rutgers.edu
+- Vatsal Shah (1B)
 - Connor Sheehan (1B)
 - Alex de Sherbinin (5D)
 - Zhecheng Shi (5C)
-- Zhentao Shi (4A) · zhentao.shi@cuhk.edu.hk
-- Arunesh Sinha (1B) · arunesh.sinha@rutgers.edu
-- Patricia Solís (1C) · patricia.solis@asu.edu
-- Kexin Song (1D, 4A) · kexin.song@yale.edu
+- Zhentao Shi (4A)
+- Arunesh Sinha (1B)
+- Patricia Solís (2C)
+- Kexin Song (1D, 4A)
 - Anastasia Soukhov (4B)
-- Kathleen Stewart (2A) · stewartk@umd.edu
-- Quentin Stoeffler (1B) · quentin.stoeffler@u-bordeaux.fr
-- Gianmario Strappati (3C) · gianmario.strappati@gmail.com
-- Anne-Kathrin Stroppe (3D) · anne-kathrin.stroppe@gesis.org
-- Mimi Sun (5C) · mimisun@google.com
-- Peijin Sun (5C) · sunpeijin75@gmail.com
+- Kathleen Stewart (2A)
+- Quentin Stoeffler (1B)
+- Gianmario Strappati (3C)
+- Anne-Kathrin Stroppe (3D)
+- Mimi Sun (5C)
+- Peijin Sun (5C)
 - Joel Suss (1B)
 - Jennifer Swenson (5D)
 
 ## T
 
-- Molly Taylor-Poleskey (1A) · molly_taylorpoleskey@harvard.edu
-- Samyuktha Madhusudhan Thumala (3A) · samyuktha.thumala@databricks.com
+- Molly Taylor-Poleskey (1A)
+- Samyuktha Madhusudhan Thumala (3A)
 - Sarah Tolbert (3D)
-- Xiao Di Tong (3C) · xiaodi.tong@gmail.com
-- Andrew Trgovac (2B, 3A) · drew.trgovac@asu.edu
-- Jaiany Rocha Trindade (5A) · jrochatrindade@fas.harvard.edu
-- B. L. Turner II (3B)
+- Xiao Di Tong (3C)
+- Andrew Trgovac (2B, 3A)
+- Jaiany Rocha Trindade (5A)
 
 ## V
 
 - Maurizio Veloccia (4C)
-- Aditya Verma (3C)
-- Urska Vrabic-Brodnjak (3C) · urska.vrabic@ntf.uni-lj.si
+- Urska Vrabic-Brodnjak (3C)
 
 ## W
 
 - Jason Wang (5A)
-- Shaowen Wang (5C) · shaowen@illinois.edu
-- Siqin Wang (5C) · siqinwan@usc.edu
-- Zifu Wang (5A, 5C) · zifu_wang@fas.harvard.edu
-- Dawn Wright (Keynote 1)
+- Shaowen Wang (5C)
+- Siqin Wang (5C)
+- Zifu Wang (5A, 5C)
 - Yanan Wu (1A)
 
 ## X
 
 - Siqiao Xie (1B)
-- Meicheng Xiong (5C) · xion2613@umn.edu
-- Lixi Xu (5A) · lixixu626@gmail.com
-- Yilan Xu (4A) · yilanxu@illinois.edu
+- Meicheng Xiong (5C)
+- Lixi Xu (5A)
+- Yilan Xu (4A)
 
 ## Y
 
 - Yalin Yang (1A)
-- Zijun Yang (5C) · yangz@uncw.edu
+- Zijun Yang (5C)
 - Xinyue Ye (4D)
-- May Yuan (4B) · myuan@utdallas.edu
+- May Yuan (4B)
 
 ## Z
 
-- Aiyin Zhang (3B, 4A) · aizhang@clarku.edu
+- Aiyin Zhang (3B, 4A)
 - Zhe (Sarina) Zhang (1D)
-- Zhe Zhang (4D, 5A) · zhezhang@tamu.edu
+- Zhe Zhang (4D, 5A)
 - Bo Zhao (3A)
-- Yingrui Zhao (5A) · yrzhao666@gmail.com
-- Siqi Zheng (4A) · sqzheng@mit.edu
-- Emily Zhou (3D) · ezhou@ucsb.edu
+- Yingrui Zhao (5A)
+- Siqi Zheng (4A)
+- Emily Zhou (3D)
 - Yu Zhou (5A)
-- Di Zhu (4C, 5C) · dizhu@umn.edu
-- Matthew Zook (Keynote 3)
-- Lei Zou (3A) · lzou@tamu.edu
-
+- Di Zhu (4C, 5C)
+- Lei Zou (3A)
