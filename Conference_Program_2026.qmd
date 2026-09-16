@@ -15,7 +15,7 @@ editor: source
 
 ![](images/cga-shield.png){.shield fig-alt="CGA shield"}
 
-Version: September 09, 2026
+Version: September 16, 2026
 
 # Day 1 · Friday, October 2
 
@@ -29,7 +29,7 @@ Version: September 09, 2026
 
 [Dawn Wright · Chief Scientist · Environmental Systems Research Institute (Esri)]{.session-lead}
 
-## [2:00–3:00pm]{.time} · Plenary Panel · Navigating the Shifting Spatial Skills Landscape {.marquee}
+## [2:00–3:00pm]{.time} · Plenary Panel 1 · Navigating the Shifting Spatial Skills Landscape {.marquee}
 
 [Moderator: Angela Lee · Environmental Systems Research Institute (Esri)]{.session-lead}
 
@@ -77,18 +77,12 @@ TBA
 
 - *Everywhere she maps, she changes the discourse: A topic modeling of the gender discourse in YouthMappers blogs*  
   **Maliha Binte Mohiuddin · West Virginia University**, Natalia da Silveira Arruda, Patricia Solís, Brajesh Karna, Ebenezer Nana Kwaku Boateng, Courtney Clark
-- *Built by Us, Displaced by Us: Intra-ethnic Gentrification in New York City's Diaspora Communities*  
-  **Austin Cheng**
 - *Labor Mobility in Cannabis Production and Territorial Contradictions in Regulated Markets*  
   **Rogério de Mambro · PPGH - USP (Programa de Pós Graduação em Geografia Humana - Universidade de São Paulo**
 - *Beyond Proximity: Measuring Quality Childcare Access as Spatial Equity Problem in New York City*  
   **Chaitanya Kukreja · New York University - Center of Urban Science + Progress**
-- *Mapping Colonial Sociability: Club Formation, Spatial Power, and Urbanization in Colonial Kerala*  
-  **Rajeesha M · Sree Sankaracharya University of Sanskrit, Kalady, Kerala**
 - *Past Decisions, Present Barriers, and Future Access: A GIS-Based Analysis of Spatial Disparities in Indigenous Grain Market Access in Manitoba, Canada*  
   **Supul Muhandiram · University of Manitoba**, Narendra Malalgoda
-- *Intersecting Mobility and Space-Time -  Addressing the Spatiotemporal Complexity of Contemporary Labor Migration Within India*  
-  **Ambuja Raj · Centre for Studies in Social Sciences, Calcutta (CSSSC), India**
 - *Spatial Patterns of Luxury Fashion in Milan: Towards a Typology of Fashion Districts*  
   **Mateusz Rusin · Jagiellonian University**
 
@@ -113,8 +107,6 @@ TBA
 
 - *Forecast, Prepare, Respond: Geospatial and Machine-Learning Analytics for Public Health and Emergency Medical Services from Global to Local Scale*  
   **Ghermay Araya · New Light Technologies, Inc.**
-- *Mapping Inequity: How Race, Income, and Geography Shape Autism Diagnosis in California*  
-  **Elizabeth Cotillo · UCLA**
 - *LLM-based Generation of Geospatial Synthetic Data for Analyzing Spatial Patterns of Health Outcomes and Disparities*  
   **Haley Mullen · Tufts University**, Kathleen Stewart
 - *Human-Network Regions as Effective Geographic Units for Disease Mitigation*  
@@ -143,12 +135,8 @@ TBA
   **Janniah Evans · University College London**
 - *Measuring Wildlife Diversity in Chitwan National Park, Nepal Using Thermal UAVs and GIS*  
   **Umme Kulsum · The University of Texas at Dallas**, Fang Qiu
-- *The Geometry of Prosperity: A Spatio-Temporal Analysis of Urban Form and Economic Health in Indian Functional Urban Areas*  
-  **Alok Kumar · Jawaharlal Nehru University**, Milap Punia
 - *Finding the Ground Before the Survey: A Comparative Workflow for Early-Stage Terrain and Site-Context Modeling*  
   **Teresa Xinyan Li · Harvard University**
-- *Directional Transferability in Spatial AI: Measuring Cross-Region Generalization with EGMS Data*  
-  **Thalosang Tshireletso · University of East London**, Meghdad Bagheri, Seyed Ali Ghorashi
 - *From Satellite Detection to Field Intervention: Operational Lessons for GeoAI*  
   **Shoibolina Kaushik · Texas A&M University**, Xiao Huang
 
@@ -177,6 +165,7 @@ TBA
 
 - Billie Bee · NASA Lifelines
 - Nathaniel Raymond · Yale Humanitarian Lab
+- Liz Chamberlain · Humanitarian Open Street Map Team (HOT)
 
 ## [11:00–11:30am]{.time} · Coffee break {.fixed}
 
@@ -224,8 +213,6 @@ TBA
 
 - *Sanctions in Space: Mapping Regional Economic Exposure with NLP and Spatial Econometrics*  
   **Gianmario Strappati · Instituto Superior de Musica J. Hernandez de Buenos Aires**
-- *Geospatial Data and the Moral Foundations of State Surveillance*  
-  **Apala Vatsa · Manav Rachna University**, Aditya Verma
 - *Politics of Form in the Transpacific: A Geographic Perspective*  
   **Xiao Di Tong · Michigan State University**
 - *Local parsimonious approach to measuring gerrymandering effects considering both shape and representation*  
@@ -328,8 +315,6 @@ TBA
   **Xiao Huang · Emory**
 - *Where to Enter: Bayesian Spatial Modeling of Market Entry Success*  
   **Jaiany Rocha Trindade · Harvard University / UFRGS**, Vinicius Andrade Brei, Devika Jain
-- *Reimagining GWR Through GNNs and Beyond: Graph Conditional Regression for Interpretable Spatial and Graph-Local Effects*  
-  **Lingbo Liu · HKUST(GZ)**
 - *Spatially Aware Adaptive Experimentation*  
   **Lixi Xu · UC Santa Barbara**, Peter Kedron
 - *SECT: A Spatiotemporal Explicit Causal Transformer for Path-Faithful Spatiotemporal Attribution*  
@@ -427,15 +412,14 @@ TBA
 ## C
 
 - Anthony Campbell (3B) · anthony.d.campbell@nasa.gov
+- Liz Chamberlain (Plenary)
 - Jiahua Chen (3D) · jiahua_chen@ucsb.edu
 - Shijuan Chen (1D, 3B) · shijuan.chen@umb.edu
 - Tzu-Hsin Karen Chen (3B)
-- Austin Cheng (1C) · austincheng98@gmail.com
 - Yona Chung (5B) · yoeunchung@gsd.harvard.edu
 - Antonio Cianciulli (4C)
 - Courtney Clark (1C) · clarkcourtney54@gmail.com
 - Dylan Connor (1B, 3B) · d.c@asu.edu
-- Elizabeth Cotillo (2A) · elizabethycotillo@Gmail.com
 
 ## D
 
@@ -521,7 +505,6 @@ TBA
 - Chaitanya Kukreja (1C) · cak10000@nyu.edu
 - Umme Kulsum (2C) · umme.kulsum@utdallas.edu
 - Abhijeet Kumar (1B) · abhijeet.sxc@gmail.com
-- Alok Kumar (2C) · alokku15_ssf@jnu.ac.in
 - Gulsah Kılıc (4B) · kilicg18@itu.edu.tr
 
 ## L
@@ -538,7 +521,7 @@ TBA
 - Yue Lin (3A) · linyue@illinois.edu
 - Belle Lipton (2B) · belle_lipton@harvard.edu
 - Jikun Liu (5A) · jikun@tamu.edu
-- Lingbo Liu (5A, 5C) · lingboliu@hkust-gz.edu.cn
+- Lingbo Liu (5C) · lingboliu@hkust-gz.edu.cn
 - Colton Loftus (4C) · cloftus@lincolninst.edu
 - Peng Luo (4D)
 - Shanyu Luo (3A)
@@ -546,7 +529,6 @@ TBA
 
 ## M
 
-- Rajeesha M (1C) · rajeesha.kumar@gmail.com
 - Zhongfu Ma (4C, 5C) · ma000523@umn.edu
 - Pacifique Madibi (4A) · pmadibi@clarku.edu
 - Narendra Malalgoda (1C) · Narendra.Malalgoda@umanitoba.ca
@@ -604,7 +586,6 @@ TBA
 ## R
 
 - Volker C Radeloff (3B)
-- Ambuja Raj (1C) · amby.raj17@gmail.com
 - Shreyas Ramani (4C) · sraman30@asu.edu
 - Sudamshu Rao (4C) · sudamshu@asu.edu
 - Nathaniel Raymond (Plenary)
@@ -654,12 +635,10 @@ TBA
 - Xiao Di Tong (3C) · xiaodi.tong@gmail.com
 - Andrew Trgovac (2B, 3A) · drew.trgovac@asu.edu
 - Jaiany Rocha Trindade (5A) · jrochatrindade@fas.harvard.edu
-- Thalosang Tshireletso (2C) · thalosang77@gmail.com
 - B. L. Turner II (3B)
 
 ## V
 
-- Apala Vatsa (3C) · vats.apala19@gmail.com
 - Maurizio Veloccia (4C)
 - Aditya Verma (3C)
 - Urska Vrabic-Brodnjak (3C) · urska.vrabic@ntf.uni-lj.si
