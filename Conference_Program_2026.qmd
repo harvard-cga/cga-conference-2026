@@ -15,7 +15,7 @@ editor: source
 
 ![](images/cga-shield.png){.shield fig-alt="CGA shield"}
 
-**Version**: September 16, 2026 (some talks have been moved, to maximize presentation time; please check your assignment!)
+**Version**: September 20, 2026 (some talks have been moved, to maximize presentation time; please check your assignment!)
 
 # Day 1 · Friday, October 2
 
@@ -42,7 +42,10 @@ editor: source
 
 **Panelists:**
 
-TBA
+- Hamed Alemohammed · Clark University
+- Ghemay Araya · New Light Technologies, Inc.
+- Lauren Bennett · Environmental Systems Research Institute (Esri)
+- Todd Mostak · NVIDIA
 
 ## [3:00–3:30pm]{.time} · Coffee break {.fixed}
 
@@ -132,7 +135,7 @@ TBA
 
 ### [2C]{.session-id} Lightning Talks (209 - West Hollow) {.lightning}
 
-[Chair: Devika Jain · Center for Geographic Analysis, Harvard University]{.session-lead}
+[Chair: Devika Jain · Harvard Center for Geographic Analysis]{.session-lead}
 
 - *The spatial clustering of utility-scale solar in Rhode Island*  
   **Christopher Battle · University of Rhode Island**
