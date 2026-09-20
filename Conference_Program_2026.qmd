@@ -126,8 +126,8 @@ editor: source
 
 - *AI Is Changing Geographic Problem Solving;  Instruction Must Change Too*  
   Peter Kedron, **Sarigai Sarigai · UC Santa Barbara**, Heather Baier, Andrew Trgovac
-- *A discussion on geospatial data practices*  
-  **Belle Lipton · Harvard Map Collection**, Devika Jain, Peter Kedron, Julie Goldman
+- *GeoAI, meet your library era*  
+  **Belle Lipton · Harvard Map Collection** and Julie Goldman
 - *Participatory GIS for Campus Sustainability:  Geospatial Data Collection, Digital Twin Development, and Sustainability Certification at Historically Black Colleges and Universities*  
   Rebecca Sarpongasiedu, Elliot Nana Karikari, **Amy Yeboah Quarkume · Howard University**
 - *Evolution of GIS - Enterprise GIS, Systems Thinking and Governance*  
@@ -411,9 +411,10 @@ editor: source
 
 - Mohit Agarwal (5C)
 - Jochen Albrecht (3D)
+- Hamed Alemohammed (Plenary Panel 1)
 - Tawfiq Ammari (1B)
 - Clio Andris (2A)
-- Ghermay Araya (2A)
+- Ghermay Araya (Plenary Panel 1, 2A)
 - Natalia da Silveira Arruda (2C)
 - Antonio Aruta (4C)
 - Domenico Asprone (4C)
@@ -424,7 +425,9 @@ editor: source
 - Jennifer Kakareka Balch (3B)
 - Christopher Battle (2C)
 - Kathy Baylis (3D)
+- Billie Bee (Plenary Panel 2)
 - Rahel Bekele (1B)
+- Lauren Bennett (Plenary Panel 1)
 - Aleksander Berg (1C)
 - Jeff Blossom (2B)
 - Ebenezer Nana Kwaku Boateng (2C)
@@ -436,6 +439,7 @@ editor: source
 ## C
 
 - Anthony Campbell (3B)
+- Liz Chamberlain (Plenary Panel 2)
 - Jiahua Chen (3D)
 - Shijuan Chen (1D, 3B)
 - Tzu-Hsin Karen Chen (3B)
@@ -455,6 +459,7 @@ editor: source
 - Nan Ding (5A)
 - Alexandre Diniz (3C)
 - Somayeh Dodge (4B)
+- Francesca Dominici (Keynote 2)
 - Scott Duxbury (1B)
 
 ## E
@@ -498,7 +503,7 @@ editor: source
 
 ## J
 
-- Devika Jain (2B, 2C, 5A)
+- Devika Jain (2C, 5A)
 - Garima Jain (3B)
 - Jiwon Jang (1B)
 - Robert Gilmore Pontius Jr (3B, 4A)
@@ -566,7 +571,7 @@ editor: source
 - Mercedes Molina (1B)
 - Melie Monnerat (1C)
 - Giuseppe Morone (4C)
-- Todd Mostak (4C)
+- Todd Mostak (Plenary Panel 1, 4C)
 - Supul Muhandiram (2C)
 - Haley Mullen (2A)
 - Dylan Munson (1B)
@@ -608,6 +613,7 @@ editor: source
 - Volker C Radeloff (3B)
 - Shreyas Ramani (4C)
 - Sudamshu Rao (4C)
+- Nathaniel Raymond (Plenary Panel 2)
 - Anthony C. Robinson (3A)
 - John Rogan (3B)
 - Francisco Rowe (1C)
@@ -624,7 +630,7 @@ editor: source
 - Prithul Sarker (5C)
 - Rebecca Sarpongasiedu (2B)
 - Asish Satpathy (4C)
-- Andrew Schroeder (2D)
+- Andrew Schroeder (Plenary Panel 2)
 - Franz Schug (3B)
 - Yvanna Serra (3B)
 - Karen C. Seto (3B)
@@ -667,6 +673,7 @@ editor: source
 - Shaowen Wang (5C)
 - Siqin Wang (5C)
 - Zifu Wang (5A, 5C)
+- Dawn Wright (Keynote 1)
 - Yanan Wu (1A)
 
 ## X
@@ -693,4 +700,5 @@ editor: source
 - Emily Zhou (3D)
 - Yu Zhou (5A)
 - Di Zhu (4C, 5C)
+- Matthew Zook (Keynote 3)
 - Lei Zou (3A)
