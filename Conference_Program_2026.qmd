@@ -112,7 +112,7 @@ editor: source
 [Chair: Clio Andris · Georgia Tech]{.session-lead}
 
 - *Forecast, Prepare, Respond: Geospatial and Machine-Learning Analytics for Public Health and Emergency Medical Services from Global to Local Scale*  
-  **Ghermay Araya · New Light Technologies, Inc.**
+  **Ghermay Araya and Garrett Tate · New Light Technologies, Inc.**
 - *LLM-based Generation of Geospatial Synthetic Data for Analyzing Spatial Patterns of Health Outcomes and Disparities*  
   **Haley Mullen · Tufts University**, Kathleen Stewart
 - *Uneven Access: Mapping Contraceptive Care Across Texas*  
@@ -654,6 +654,7 @@ editor: source
 
 ## T
 
+- Garrett Tate (2A)
 - Molly Taylor-Poleskey (1A)
 - Samyuktha Madhusudhan Thumala (3A)
 - Sarah Tolbert (3D)
