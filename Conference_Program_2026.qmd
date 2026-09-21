@@ -42,7 +42,7 @@ editor: source
 
 **Panelists:**
 
-- Hamed Alemohammed · Clark University
+- Hamed Alemohammad · Clark University
 - Ghemay Araya · New Light Technologies, Inc.
 - Lauren Bennett · Environmental Systems Research Institute (Esri)
 - Todd Mostak · NVIDIA
