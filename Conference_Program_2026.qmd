@@ -15,7 +15,7 @@ editor: source
 
 ![](images/cga-shield.png){.shield fig-alt="CGA shield"}
 
-**Version**: September 20, 2026 (some talks have been moved, to maximize presentation time; please check your assignment!)
+**Version**: September 21, 2026 (some talks have been moved, to maximize presentation time; please check your assignment!)
 
 # Day 1 · Friday, October 2
 
