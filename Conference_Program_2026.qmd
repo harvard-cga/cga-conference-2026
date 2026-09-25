@@ -15,7 +15,7 @@ editor: source
 
 ![](images/cga-shield.png){.shield fig-alt="CGA shield"}
 
-**Version**: September 21, 2026 (some talks have been moved, to maximize presentation time; please check your assignment!)
+**Version**: September 25, 2026 (some talks have been moved, to maximize presentation time; please check your assignment!)
 
 # Day 1 · Friday, October 2
 
@@ -137,6 +137,8 @@ editor: source
 
 [Chair: Devika Jain · Harvard Center for Geographic Analysis]{.session-lead}
 
+- *Beyond Proximity: Measuring Quality Childcare Access as Spatial Equity Problem in New York City*  
+  **Chaitanya Kukreja · New York University - Center of Urban Science + Progress**
 - *The spatial clustering of utility-scale solar in Rhode Island*  
   **Christopher Battle · University of Rhode Island**
 - *Visualising Flood Risk: A GIS–Augmented Reality Pipeline for Hyperlocal Urban Flood Education along the River Lea*  
@@ -145,14 +147,12 @@ editor: source
   **Umme Kulsum · The University of Texas at Dallas**, Fang Qiu
 - *Finding the Ground Before the Survey: A Comparative Workflow for Early-Stage Terrain and Site-Context Modeling*  
   **Teresa Xinyan Li · Harvard University**
-- *From Satellite Detection to Field Intervention: Operational Lessons for GeoAI*  
-  **Shoibolina Kaushik · Texas A&M University**, Xiao Huang
 - *Everywhere she maps, she changes the discourse: A topic modeling of the gender discourse in YouthMappers blogs*  
   **Maliha Binte Mohiuddin · West Virginia University**, Natalia da Silveira Arruda, Patricia Solís, Brajesh Karna, Ebenezer Nana Kwaku Boateng, Courtney Clark
+- *From Satellite Detection to Field Intervention: Operational Lessons for GeoAI*  
+  **Shoibolina Kaushik · Texas A&M University**, Xiao Huang
 - *Labor Mobility in Cannabis Production and Territorial Contradictions in Regulated Markets*  
   **Rogério de Mambro · PPGH - USP (Programa de Pós Graduação em Geografia Humana - Universidade de São Paulo**
-- *Beyond Proximity: Measuring Quality Childcare Access as Spatial Equity Problem in New York City*  
-  **Chaitanya Kukreja · New York University - Center of Urban Science + Progress**
 - *Past Decisions, Present Barriers, and Future Access: A GIS-Based Analysis of Spatial Disparities in Indigenous Grain Market Access in Manitoba, Canada*  
   **Supul Muhandiram · University of Manitoba**, Narendra Malalgoda
 - *Spatial Patterns of Luxury Fashion in Milan: Towards a Typology of Fashion Districts*  
@@ -314,7 +314,7 @@ editor: source
 - *Reproducible Geospatial Knowledge Graphs with Apache Iceberg and RDF*  
   **Colton Loftus · Lincoln Institute of Land Policy, Center for Geospatial Solutions**
 
-### [4D]{.session-id} From Participatory GIS to Decision-ready GeoAI: Building Trust in Geospatial AI (221 - Branch View) {.panel}
+### [4D]{.session-id} From Participatory GIS to Decision-ready Systems: Building Trust in Geospatial AI (221 - Branch View) {.panel}
 
 [Panel · Moderator: Shoibolina Kaushik · Texas A&M University]{.session-lead}
 
@@ -322,7 +322,7 @@ editor: source
 
 - Zhe Zhang · Texas A&M University
 - Xiao Huang · Emory University
-- Xinyue Ye · University of Alabama
+- May Yuan · The University of Texas at Dallas
 - Peng Luo · University of Iowa
 
 ## [3:15–3:30pm]{.time} · Break {.fixed}
@@ -348,7 +348,7 @@ editor: source
 
 ### [5B]{.session-id} Segregation and Structural Inequalities (205 - Lane's Edge)
 
-[Chair: Hamish Gibbs · Northeastern University]{.session-lead}
+[Chair: Matt Wilson · University of Kentucky]{.session-lead}
 
 - *Persistent and Emerging Geographies of Structural Racism and Discrimination in the United States*  
   **Debs Ghosh · University of Connecticut**, Youshuang Hu
@@ -674,6 +674,7 @@ editor: source
 - Shaowen Wang (5C)
 - Siqin Wang (5C)
 - Zifu Wang (5A, 5C)
+- Matt Wilson (5B)
 - Dawn Wright (Keynote 1)
 - Yanan Wu (1A)
 
@@ -688,8 +689,7 @@ editor: source
 
 - Yalin Yang (1A)
 - Zijun Yang (5C)
-- Xinyue Ye (4D)
-- May Yuan (4B)
+- May Yuan (4B, 4D)
 
 ## Z
 
