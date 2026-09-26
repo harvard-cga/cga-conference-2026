@@ -15,7 +15,10 @@ editor: source
 
 ![](images/cga-shield.png){.shield fig-alt="CGA shield"}
 
-**Version**: September 25, 2026 (some talks have been moved, to maximize presentation time; please check your assignment!)
+# **Version**: September 25, 2026
+**Some talks have been moved, to maximize presentation time; please check your assignment!**
+
+# Our venue: [The David Rubenstein Treehouse](https://rubensteintreehouse.harvard.edu)
 
 # Day 1 · Friday, October 2
 
