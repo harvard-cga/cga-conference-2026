@@ -15,7 +15,7 @@ editor: source
 
 ![](images/cga-shield.png){.shield fig-alt="CGA shield"}
 
-# **Version**: September 25, 2026
+# **Version**: September 28, 2026
 **Some talks have been moved, to maximize presentation time; please check your assignment!**
 
 # Our venue: [The David Rubenstein Treehouse](https://rubensteintreehouse.harvard.edu)
@@ -46,7 +46,7 @@ editor: source
 **Panelists:**
 
 - Hamed Alemohammad · Clark University
-- Ghemay Araya · New Light Technologies, Inc.
+- Ghermay Araya · New Light Technologies, Inc.
 - Lauren Bennett · Environmental Systems Research Institute (Esri)
 - Todd Mostak · NVIDIA
 
@@ -62,8 +62,6 @@ editor: source
   **Elizaveta Lepikhova · UW-Milwaukee**, Daria Dementeva · Luxembourg Institute of Socio-Economic Research (LISER)
 - *Automated Georeferencing of Historical Maps Using Vision–Language Models* 
   Yanan Wu, Yalin Yang, **Chengbin Deng · University of Oklahoma**
-- *From Historical GIS to Digital Twins: Modeling Urban Resilience Through Explainable AI in Spain*  
-  **Bárbara Polo-Martín · Universidad Autónoma de Madrid**
 - *China’s History Through a Geographic Lens*  
   **Peter K. Bol · Harvard University**
 - *Before the Map: Early Modern European Itineraries and Network Graphs as an Alternative to HistoricalGIS*  
@@ -86,8 +84,8 @@ editor: source
 
 [Chair: Melie Monnerat · McGill University]{.session-lead}
 
-- *Spatial Patterns of Health and Displacement in Uranium Mining Regions: A Comparative GIS-Based Study of Jadugoda (India), Navajo Nation (USA), and Ranger Mine, Kakadu (Australia)*  
-  **Abhijeet Kumar · Ranchi University India**, Robert Pradeep Kujur · St. Xavier’s College Ranchi
+- *From Historical GIS to Digital Twins: Modeling Urban Resilience Through Explainable AI in Spain*  
+  **Bárbara Polo-Martín · Universidad Autónoma de Madrid**
 - *Leveraging Digital Trace Data to Measure Flood-Induced Population Displacement*  
   **Martina Pardy · University of Liverpool**, Elisabetta Pietrostefani, Matt Mason, Andrea Nasuto, Francisco Rowe
 - *Spatial Scale Effects in Foundation Model Earth Embeddings: A Case Study on Predicting the Exposure of Structures to Wildfire in Colorado, USA*  
@@ -530,10 +528,8 @@ editor: source
 - Niwaeli Kimambo (3D)
 - Caglar Koylu (2A)
 - Eric Kramer (2D)
-- Robert Pradeep Kujur (1C)
 - Chaitanya Kukreja (2C)
 - Umme Kulsum (2C)
-- Abhijeet Kumar (1C)
 - Gulsah Kılıc (4B)
 
 ## L
@@ -600,7 +596,7 @@ editor: source
 - Abigail Phillips (3B)
 - Max Robert Louis Piana (2D)
 - Elisabetta Pietrostefani (1C)
-- Bárbara Polo-Martín (1A)
+- Bárbara Polo-Martín (1C)
 - Robert Pontius (4A)
 - Mason A. Porter (2A)
 - Sree Nandhan Prabhakar (4C)
