@@ -15,10 +15,12 @@ editor: source
 
 ![](images/cga-shield.png){.shield fig-alt="CGA shield"}
 
-# **Version**: September 28, 2026
+# **Version**: September 30, 2026
 **Some talks have been moved, to maximize presentation time; please check your assignment!**
 
-# Our venue: [The David Rubenstein Treehouse](https://rubensteintreehouse.harvard.edu)
+# Our venue: [The David Rubenstein Treehouse](https://rubensteintreehouse.harvard.edu), Second Floor
+
+**Please make sure you've completed the Treehouse security process and have your QR ready for access to our meeting venue!**
 
 # Day 1 · Friday, October 2
 
@@ -26,9 +28,13 @@ editor: source
 
 ## [12:00–1:00pm]{.time} · Lunch (on your own) {.fixed}
 
-## [1:00–1:15pm]{.time} · Conference opening {.fixed}
+## [1:00–1:15pm]{.time} · Conference opening (Riverbend) {.marquee}
 
-## [1:15–2:00pm]{.time} · Keynote · Empowering Explorers{.marquee}
+- Rachel Franklin · Harvard Center for Geographic Analysis
+- Subu Subramanian · Harvard Center for Geographic Analysis and Chan School of Public Health
+- Peter Bol · Harvard Center for Geographic Analysis and Department of East Asian Languages and Civilizations
+
+## [1:15–2:00pm]{.time} · Keynote · Empowering Explorers (Riverbend){.marquee}
 
 [Dawn Wright · Chief Scientist · Environmental Systems Research Institute (Esri)]{.session-lead}
 
@@ -39,7 +45,7 @@ editor: source
 ::: {.keynote-clear}
 :::
 
-## [2:00–3:00pm]{.time} · Plenary Panel 1 · Navigating the Shifting Spatial Skills Landscape {.marquee}
+## [2:00–3:00pm]{.time} · Plenary Panel 1 · Navigating the Shifting Spatial Skills Landscape (Riverbend) {.marquee}
 
 [Moderator: Angela Lee · Environmental Systems Research Institute (Esri)]{.session-lead}
 
@@ -54,33 +60,31 @@ editor: source
 
 ## [3:30–4:30pm]{.time} · Concurrent Sessions 1 {.fixed}
 
-### [1A]{.session-id} Historical GIS and History (201 - Riverbend)
+### [1A]{.session-id} Historical GIS and History (Riverbend)
 
 [Chair: Molly Taylor-Poleskey · Harvard University Map Library]{.session-lead}
 
 - *Historical Geodata Digitization with Vision-Language Models: Reconstructing Neighborhood Property Values and the Geography of Racially Restrictive Covenants in Twentieth-Century Milwaukee*  
   **Elizaveta Lepikhova · UW-Milwaukee**, Daria Dementeva · Luxembourg Institute of Socio-Economic Research (LISER)
 - *Automated Georeferencing of Historical Maps Using Vision–Language Models* 
-  Yanan Wu, Yalin Yang, **Chengbin Deng · University of Oklahoma**
+  **Yanan Wu**, Yalin Yang, Chengbin Deng · University of Oklahoma
 - *China’s History Through a Geographic Lens*  
   **Peter K. Bol · Harvard University**
 - *Before the Map: Early Modern European Itineraries and Network Graphs as an Alternative to HistoricalGIS*  
   **Molly Taylor-Poleskey · Harvard University Map Library**
 
-### [1B]{.session-id} Development, Poverty, and Environment (205 - Lane's Edge)
+### [1B]{.session-id} Development, Poverty, and Environment (Lane's Edge)
 
-[Chair: Dylan Connor · Arizona State University]{.session-lead}
+[Chair: Anthony Howell · Arizona State University]{.session-lead}
 
 - *Multimodal poverty mapping and geographic transfer allocation*  
   **Woojin Jung · Rutgers University**, Andrew H. Kim, Arunesh Sinha, Quentin Stoeffler, Saeed Ghadimi, Vatsal Shah, Krittika Garg, Tawfiq Ammari
-- *Generative AI, Skill Decombination, and the Geography of Work Restructuring*  
-  **Anthony Howell · Arizona State University**
 - *Household energy choice in rural Ethiopia: An agent-based approach*  
   **Dylan Munson · Duke University**, Rahel Bekele, Yuxin Kang, Scott Duxbury, Sam St. Lawrence, Dana Pasquale
-- *Community Wealth Protects Cognitive Health for Older Adults*  
-  **Dylan Connor · Arizona State University**, Connor Sheehan, Jiwon Jang, Tom Kemeny, Joel Suss, Mercedes Molina, Siqiao Xie, Zhining Gu, Joseph Saenz
+- *Generative AI, Skill Decombination, and the Geography of Work Restructuring*  
+  **Anthony Howell · Arizona State University**
 
-### [1C]{.session-id} Environmental Exposure and Vulnerability (209 - West Hollow)
+### [1C]{.session-id} Environmental Exposure and Vulnerability (West Hollow)
 
 [Chair: Melie Monnerat · McGill University]{.session-lead}
 
@@ -93,9 +97,9 @@ editor: source
 - *Looking Below the Canopy: Grounding Geographic Analysis in Vietnam's Cinnamon Commodity Landscape*  
   **Melie Monnerat · McGill University**
 
-### [1D]{.session-id} Who Writes the Map? AI, Authorship, and Publishing (221 - Branch View) {.panel}
+### [1D]{.session-id} Panel: Who Writes the Map? AI, Authorship, and Publishing (Branch View) {.panel}
 
-[Panel · Moderator: Kexin Song · Yale University]{.session-lead}
+[Moderator: Kexin Song · Yale University]{.session-lead}
 
 **Panelists**
 
@@ -108,7 +112,7 @@ editor: source
 
 ## [4:45–5:45pm]{.time} · Concurrent Sessions 2 {.fixed}
 
-### [2A]{.session-id} Health and Access (201 - Riverbend)
+### [2A]{.session-id} Health and Access (Riverbend)
 
 [Chair: Clio Andris · Georgia Tech]{.session-lead}
 
@@ -121,7 +125,7 @@ editor: source
 - *Human-Network Regions as Effective Geographic Units for Disease Mitigation*  
   **Clio Andris · Georgia Tech**, Caglar Koylu, Mason A. Porter
 
-### [2B]{.session-id} GIS Enterprise, Education, and Governance (205 - Lane's Edge)
+### [2B]{.session-id} GIS Enterprise, Education, and Governance (Lane's Edge)
 
 [Chair: Jeff Blossom · Harvard Center for Geographic Analysis]{.session-lead}
 
@@ -134,7 +138,7 @@ editor: source
 - *Evolution of GIS - Enterprise GIS, Systems Thinking and Governance*  
   **Geri Miller · Esri**
 
-### [2C]{.session-id} Lightning Talks (209 - West Hollow) {.lightning}
+### [2C]{.session-id} Lightning Talks (West Hollow) {.lightning}
 
 [Chair: Devika Jain · Harvard Center for Geographic Analysis]{.session-lead}
 
@@ -159,9 +163,9 @@ editor: source
 - *Spatial Patterns of Luxury Fashion in Milan: Towards a Typology of Fashion Districts*  
   **Mateusz Rusin · Jagiellonian University**
 
-### [2D]{.session-id} Data-Driven Design for Urban Landscapes: Practicing and Teaching Urban Forest Planning (221 - Branch View) {.panel}
+### [2D]{.session-id} Panel: Data-Driven Design for Urban Landscapes: Practicing and Teaching Urban Forest Planning (Branch View) {.panel}
 
-[Panel · Moderator: Eric Kramer · Reed Hilderbrand Landscape Architecture and Harvard Graduate School of Design]{.session-lead}
+[Moderator: Eric Kramer · Reed Hilderbrand Landscape Architecture and Harvard Graduate School of Design]{.session-lead}
 
 **Panelists**
 
@@ -172,7 +176,9 @@ editor: source
 
 # Day 2 · Saturday, October 3
 
-## [9:00–10:00am]{.time} · Keynote 2 · AI: Solution or Obstacle for Climate Adaptation? {.marquee}
+## [9:00–9:15am]{.time} · Morning Welcome (Riverbend) {.marquee}
+
+## [9:15–10:00am]{.time} · Keynote 2 · AI: Solution or Obstacle for Climate Adaptation? (Riverbend) {.marquee}
 
 [Francesca Dominici · Director · Harvard Data Science Initiative and Clarence James Gamble Professor of Biostatistics · Harvard University]{.session-lead}
 
@@ -183,7 +189,7 @@ editor: source
 ::: {.keynote-clear}
 :::
 
-## [10:00–11:00am]{.time} · Plenary Panel 2 · Localizing Spatial Intelligence for Crisis Response {.marquee}
+## [10:00–11:00am]{.time} · Plenary Panel 2 · Localizing Spatial Intelligence for Crisis Response (Riverbend) {.marquee}
 
 [Moderator: Andrew Schroeder · Gates Foundation]{.session-lead}
 
@@ -198,7 +204,7 @@ editor: source
 
 ## [11:30am–1:00pm]{.time} · Concurrent Sessions 3 {.fixed}
 
-### [3A]{.session-id} Agents, LLMs, and the Discipline (Oh my!) (201 - Riverbend)
+### [3A]{.session-id} Agents, LLMs, and the Discipline (Oh my!) (Riverbend)
 
 [Chair: Anthony C. Robinson · Penn State University]{.session-lead}
 
@@ -210,12 +216,12 @@ editor: source
   **Yue Lin · UIUC**, Bo Zhao
 - *Responsible GeoAI: Thoughtfully Integrating Geography and AI in the Real World*  
   **Lei Zou · Texas A&M University**
-- *Algorithmic Space: Reimagining Geographic Analysis Through AI Governance and Spatial Justice*  
+- *Algorithmic Space: Reimagining Geographic Analysis Through AI Governance and Spatial Justice*
   **Nadine Fares · RBC Royal Bank of Canada**
 - *Slop-less Mapmaking in a Reimagined University Cartography Lab*  
   **Anthony C. Robinson · Penn State University**
 
-### [3B]{.session-id} Coastal and Landscape Dynamics (205 - Lane's Edge)
+### [3B]{.session-id} Coastal and Landscape Dynamics (Lane's Edge)
 
 [Chair: Garima Jain · Stanford University]{.session-lead}
 
@@ -232,7 +238,7 @@ editor: source
 - *From adaptation to entrapment: Evidence of aquaculture-induced salinity feedback in coastal India*  
   **Garima Jain · Stanford University**, B. L. Turner II, Dylan Connor, Hallie Eakin, Amy E. Frazier
 
-### [3C]{.session-id} Political Economy and Statecraft (209 - West Hollow)
+### [3C]{.session-id} Political Economy and Statecraft (West Hollow)
 
 [Chair: Urska Vrabic-Brodnjak · University of Ljubljana]{.session-lead}
 
@@ -249,7 +255,7 @@ editor: source
 - *The Geography of Sustainable Packaging Waste in Europe*  
   **Urska Vrabic-Brodnjak · University of Ljubljana**
 
-### [3D]{.session-id} Spatial Data and Structures (221 - Branch View)
+### [3D]{.session-id} Spatial Data and Structures (Branch View)
 
 [Chair: Jochen Albrecht · Hunter College / CUNY]{.session-lead}
 
@@ -270,7 +276,7 @@ editor: source
 
 ## [2:00–3:15pm]{.time} · Concurrent Sessions 4 {.fixed}
 
-### [4A]{.session-id} Land Cover, Change, and Conflict (201 - Riverbend)
+### [4A]{.session-id} Land Cover, Change, and Conflict (Riverbend)
 
 [Chair: Bruce Boucek · Harvard Graduate School of Design]{.session-lead}
 
@@ -285,7 +291,7 @@ editor: source
 - *Cross-Regional Attention Networks in Climate Disasters: Mapping Asymmetric Spillovers and Blind Spots*  
   **Yilan Xu · University of Illinois**, Siqi Zheng, Zhentao Shi, Yi Huang, Yichun Fan, Sebastien Box-Couillard
 
-### [4B]{.session-id} Mobility and Movement (205 - Lane's Edge)
+### [4B]{.session-id} Mobility and Movement (Lane's Edge)
 
 [Chair: Hande Demirel · Istanbul Technical University]{.session-lead}
 
@@ -296,11 +302,11 @@ editor: source
 - *Geographic Analysis of Human Mobility and Animal Movement and Their Interaction Effects: From Spatial Data Science to Generative AI Approaches*  
   **Song Gao · University of Wisconsin-Madison**
 - *Developing MEEP: A Platform for Mobility-Aware Environmental Exposure Evaluation within Cities*  
-  **Anastasia Soukhov · Western University**, Armita Kar, Rachel Franklin
+  **Anastasia Soukhov · Western University**, Armita Kar, Devika Jain, Rachel Franklin
 - *Floods vs. Urban Mobility: The Role of Geospatial Intelligence in Transport Resilience*  
   **Hande Demirel · Istanbul Technical University**, Gulsah Kılıc
 
-### [4C]{.session-id} Systems and Infrastructure (209 - West Hollow)
+### [4C]{.session-id} Systems and Infrastructure (West Hollow)
 
 [Chair: Colton Loftus · Lincoln Institute of Land Policy, Center for Geospatial Solutions]{.session-lead}
 
@@ -315,9 +321,9 @@ editor: source
 - *Reproducible Geospatial Knowledge Graphs with Apache Iceberg and RDF*  
   **Colton Loftus · Lincoln Institute of Land Policy, Center for Geospatial Solutions**
 
-### [4D]{.session-id} From Participatory GIS to Decision-ready Systems: Building Trust in Geospatial AI (221 - Branch View) {.panel}
+### [4D]{.session-id} Panel: From Participatory GIS to Decision-ready Systems: Building Trust in Geospatial AI (Branch View) {.panel}
 
-[Panel · Moderator: Shoibolina Kaushik · Texas A&M University]{.session-lead}
+[Moderator: Shoibolina Kaushik · Texas A&M University]{.session-lead}
 
 **Panelists**
 
@@ -330,9 +336,9 @@ editor: source
 
 ## [3:30–4:45pm]{.time} · Concurrent Sessions 5 {.fixed}
 
-### [5A]{.session-id} GeoAI and Spatial Analysis (201 - Riverbend)
+### [5A]{.session-id} GeoAI and Spatial Analysis (Riverbend)
 
-[Chair: Zifu Wang · Harvard University]{.session-lead}
+[Chair: Zifu Wang · Harvard Center for Geographic Analysis]{.session-lead}
 
 - *Quantum Spatial Regression (QSR): Learning Spatial Structure with Quantum Kernels*  
   **Xiao Huang · Emory**
@@ -345,9 +351,9 @@ editor: source
 - *An LLM-Guided Framework for Analyzing Public Sentiment Toward Transportation Facilities Using Google Maps Reviews*  
   **Yingrui Zhao · University of Maryland, College Park**
 - *Safety-Aware Contraction Hierarchies for School Bus Routing with Maneuver-Level Turn Penalties*  
-  **Zifu Wang · Harvard University**, Yu Zhou, Xueqiao Huang, Jason Wang, Nan Ding
+  **Zifu Wang · Harvard Center for Geographic Analysis**, Yu Zhou, Xueqiao Huang, Jason Wang, Nan Ding
 
-### [5B]{.session-id} Segregation and Structural Inequalities (205 - Lane's Edge)
+### [5B]{.session-id} Segregation and Structural Inequalities (Lane's Edge)
 
 [Chair: Matt Wilson · University of Kentucky]{.session-lead}
 
@@ -362,8 +368,7 @@ editor: source
 - *A behavioral census of US cities from interpretable mobility embeddings*  
   **Hamish Gibbs · Northeastern University**
 
-
-### [5C]{.session-id} Foundation Models and Earth Embeddings (209 - West Hollow)
+### [5C]{.session-id} Foundation Models and Earth Embeddings (West Hollow)
 
 [Chair: Siqin Wang · University of Southern California]{.session-lead}
 
@@ -378,9 +383,9 @@ editor: source
 - *Benchmark evaluation of large language models for human versus AI perception on urban environment through street view images*  
   **Siqin Wang · University of Southern California**, Zifu Wang, Xiao Huang, Lingbo Liu, Zhecheng Shi, Zongrong Li
 
-### [5D]{.session-id} The Future of University GIS Centers in the AI Era (221 - Branch View) {.panel}
+### [5D]{.session-id} Panel: The Future of University GIS Centers in the AI Era (Branch View) {.panel}
 
-[Panel · Moderator: Chengbin Deng · University of Oklahoma]{.session-lead}
+[Moderator: Chengbin Deng · University of Oklahoma]{.session-lead}
 
 **Panelists**
 
@@ -392,7 +397,7 @@ editor: source
 
 ## [4:45–5:00pm]{.time} · Break {.fixed}
 
-## [5:00–5:45pm]{.time} · Keynote 3 · Seeing Through the Silicon Gaze: Mapping Bias in Large Language Models{.marquee}
+## [5:00–5:45pm]{.time} · Keynote 3 · Seeing Through the Silicon Gaze: Mapping Bias in Large Language Models (Riverbend){.marquee}
 
 [Matthew Zook · Roger DiSilvestro Professor · Department of Geography · University of Kentucky]{.session-lead}
 
@@ -403,7 +408,10 @@ editor: source
 ::: {.keynote-clear}
 :::
 
-## [5:45–6:00pm]{.time} · Conference closing + prizes {.fixed}
+## [5:45–6:00pm]{.time} · Conference Closing and Prizes {.fixed}
+
+- Jeff Blossom · Harvard Center for Geographic Analysis
+- Rachel Franklin · Harvard Center for Geographic Analysis
 
 # Index
 
@@ -447,7 +455,7 @@ editor: source
 - Yona Chung (5B)
 - Antonio Cianciulli (4C)
 - Courtney Clark (2C)
-- Dylan Connor (1B, 3B)
+- Dylan Connor (3B)
 
 ## D
 
@@ -488,7 +496,6 @@ editor: source
 - Hamish Gibbs (5B)
 - Julie Goldman (2B)
 - Indrani Gosh (2D)
-- Zhining Gu (1B)
 
 ## H
 
@@ -504,9 +511,8 @@ editor: source
 
 ## J
 
-- Devika Jain (2C, 5A)
+- Devika Jain (2C, 4B, 5A)
 - Garima Jain (3B)
-- Jiwon Jang (1B)
 - Robert Gilmore Pontius Jr (3B, 4A)
 - Woojin Jung (1B)
 
@@ -521,7 +527,6 @@ editor: source
 - Shoibolina Kaushik (2C, 4D)
 - Peter Kedron (2B, 3A, 3D, 5A)
 - Slide Kelly (2D)
-- Tom Kemeny (1B)
 - Jean-Paul Kibambe (4A)
 - Andrew H. Kim (1B)
 - Kyungmin Kim (3C)
@@ -567,7 +572,6 @@ editor: source
 - Deepak Mishra (5D)
 - Emilio Misuriello (4C)
 - Maliha Binte Mohiuddin (2C)
-- Mercedes Molina (1B)
 - Melie Monnerat (1C)
 - Giuseppe Morone (4C)
 - Todd Mostak (Plenary Panel 1, 4C)
@@ -621,7 +625,6 @@ editor: source
 ## S
 
 - Mehak Sachdeva (5B)
-- Joseph Saenz (1B)
 - Patricia Sanchez (4B)
 - Luke Sanford (1D, 4A)
 - Florencia Sangermano (3B)
@@ -634,7 +637,6 @@ editor: source
 - Yvanna Serra (3B)
 - Karen C. Seto (3B)
 - Vatsal Shah (1B)
-- Connor Sheehan (1B)
 - Alex de Sherbinin (5D)
 - Zhecheng Shi (5C)
 - Zhentao Shi (4A)
@@ -648,7 +650,6 @@ editor: source
 - Anne-Kathrin Stroppe (3D)
 - Mimi Sun (5C)
 - Peijin Sun (5C)
-- Joel Suss (1B)
 - Jennifer Swenson (5D)
 
 ## T
@@ -679,7 +680,6 @@ editor: source
 
 ## X
 
-- Siqiao Xie (1B)
 - Meicheng Xiong (5C)
 - Lixi Xu (5A)
 - Yilan Xu (4A)
